@@ -1,4 +1,4 @@
-# eliascharese
+# Elias Estrada
 Config files for my GitHub profile.
 <a href="https://app.daily.dev/DailyDevTips">
   <img 
