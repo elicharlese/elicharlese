@@ -1,5 +1,12 @@
 # Elias Estrada
-Config files for my GitHub profile.
+## Cleanfolio
+
+## Message Me 
+### LinkedIn
+### Twitter
+### Facebook
+
+## Daily Dev Card
 <a href="https://app.daily.dev/DailyDevTips">
   <img 
        src="https://github.com/elicharlese/elicharlese/blob/master/devcard.svg" 
