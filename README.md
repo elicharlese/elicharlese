@@ -1,11 +1,25 @@
 # Elias Estrada
+I am a blockchain developer, my motto is Well-Rounded and Highly-Grounded.
+
 ## Cleanfolio
 [Still under works ⚒️](https://elicharlese-cleanfolio.vercel.app/)
 
 ## Current Projects
-Creative E-commerce Co.
-TerraSolstice
-Tradent
+### Main Organizations
+[Creative E-commerce Co.]()
+[TerraSolstice]()
+[Tradent]()
+
+### Minor Organizations
+[3RUPT]()
+[Bitcellular]()
+[Cheers]()
+[Half & Half]()
+[The Public]()
+[Knott Bank]()
+[Hooden]()
+[UNI-META]()
+[Blockify]()
 
 ## Currently Learning
 Learning Python, Javascript, Solidity and Rust
