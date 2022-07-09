@@ -24,6 +24,11 @@ I am a blockchain developer, my motto is Well-Rounded and Highly-Grounded.
 ## Currently Learning
 Learning Python, Javascript, Solidity and Rust
 
+## What's up Next?
+[Trillions]()
+[Tut]()
+[Training]()
+
 ## Message Me 
 [LinkedIn](linkedin.com/in/eliasestrada/)
 [Twitter](https://twitter.com/chaincec)
