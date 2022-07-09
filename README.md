@@ -1,5 +1,6 @@
 # Elias Estrada
-I am a freelancer and blockchain developer, I 
+I am a freelancer and blockchain developer.
+Stay well-rounded and highly-grounded.
 
 ## Cleanfolio
 [Still under works ⚒️](https://elicharlese-cleanfolio.vercel.app/)
