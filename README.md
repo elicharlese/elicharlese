@@ -32,6 +32,8 @@ Stay well-rounded and highly-grounded.
 
 [Blockify]()
 
+[BitRocket]()
+
 ## Currently Learning
 Learning Python, Javascript, Solidity and Rust.
 
