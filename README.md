@@ -6,7 +6,8 @@ I also work in GIS Analysis and Salesforce development - Python, LWC and APEX.
 
 ## Cleanfolio
 [Still under works ⚒️](https://elicharlese-cleanfolio.vercel.app/)
-[Codedamn](https://codedamn.com/user/eliasestradac)
+
+[👨‍💻Codedamn](https://codedamn.com/user/eliasestradac)
 
 ## Current Projects
 ### Main Organizations
