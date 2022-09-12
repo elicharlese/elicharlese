@@ -1,11 +1,12 @@
 # Elias Estrada
 I am mainly a full-stack blockchain and developer - React, Solidity, Node.js and Next.js.
-I also work in GIS development and Salesforce development - Python, LWC and APEX.
+I also work in GIS Analysis and Salesforce development - Python, LWC and APEX.
 
 **Stay well-rounded and highly-grounded**
 
 ## Cleanfolio
 [Still under works ⚒️](https://elicharlese-cleanfolio.vercel.app/)
+[Codedamn](https://codedamn.com/user/eliasestradac)
 
 ## Current Projects
 ### Main Organizations
@@ -27,13 +28,13 @@ I also work in GIS development and Salesforce development - Python, LWC and APEX
 [🪙BitRocket]()
 
 ## Currently Learning
-Java, C++
+Bash, Rust, Go Java and C++
 
 ## Currently Interning
 Salesforce Custom Integrations Intern
 
 ## What's up Next?
-[💻DASH]()
+[💻DASH](https://github.com/elicharlese/DASH)
 
 ## Message Me 
 [🔗LinkedIn](linkedin.com/in/eliasestrada/)
