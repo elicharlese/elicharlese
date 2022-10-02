@@ -27,13 +27,14 @@ I also work in GIS analysis and Salesforce development - Python, LWC and APEX.
 [🪙BitRocket]()
 
 ## Currently Learning
-MERN Stack, Solana and Polygon Networks
+MERN Stack and Blockchain Development
 
 ## Currently Interning
 Collaqor Intern
 
 ## What's up Next?
 Bash, Rust, Go, Java and C++
+
 [💻DASH](https://github.com/elicharlese/DASH)
 
 ## Message Me 
