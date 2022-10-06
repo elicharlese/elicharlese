@@ -19,12 +19,13 @@ I also work in GIS analysis and Salesforce development - Python, LWC and APEX.
 [🪙Cheers]()
 [🪙Half & Half]()
 [🪙The Public]()
-
 [🪙Knott Bank]()
+
 [🪙Hooden]()
 [🪙UNI-META]()
 [🪙Blockify]()
 [🪙BitRocket]()
+[🪙Sectorverse](https://github.com/Sectorverse)
 
 ## Currently Learning
 MERN Stack and Blockchain Development
