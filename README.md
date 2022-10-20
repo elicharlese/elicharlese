@@ -41,7 +41,7 @@ I also work in GIS analysis and Salesforce development - Python, LWC and APEX.
 MERN Stack and Blockchain Development
 
 ## Currently Interning
-Collaqor Intern
+Salesforce at Collaqor
 
 ## What's up Next?
 Bash, Rust, Go, Java and C++
