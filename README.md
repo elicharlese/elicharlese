@@ -40,8 +40,8 @@ I also work in GIS analysis and Salesforce development - Python, LWC and APEX.
 ## Currently Learning
 MERN Stack and Blockchain Development
 
-## Currently Interning
-Salesforce at Collaqor
+<!-- ## Currently Interning
+Salesforce at Collaqor -->
 
 ## What's up Next?
 Bash, Rust, Go, Java and C++
