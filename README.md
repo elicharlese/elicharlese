@@ -11,23 +11,33 @@ I also work in GIS analysis and Salesforce development - Python, LWC and APEX.
 
 ## Current Projects
 ### Major Organizations
-[🛒Creative E-commerce Co.]()
-[🌎TerraSolstice]()
-[🔐Tradent]()
+[🛒Creative E-commerce Co.](https://github.com/Creative-Ecommerce-Co)
+[🌎TerraSolstice](https://github.com/TerraSolstice)
+[🔐Tradent](https://github.com/Tradent)
 
 ### Minor Organizations
-[🪙3RUPT]()
-[🪙Bitcellular]()
-[🪙Cheers]()
-[🪙Half & Half]()
-[🪙The Public]()
-[🪙Knott Bank]()
+[🪙3RUPT](https://github.com/3rupt)
+[🪙Bitcellular](https://github.com/Bitcellular)
+[🪙Cheers](https://github.com/Cheers-Browser)
+[🪙Half & Half](https://github.com/Half-Half-1)
+[🪙The Public](https://github.com/The-Public-3-0)
+[🪙Knott Bank](https://github.com/Knott-Bank)
 
-[🪙Hooden]()
-[🪙UNI-META]()
-[🪙Blockify]()
-[🪙BitRocket]()
+[🪙Hooden](https://github.com/Hooden-1)
+[🪙UNI-META](https://github.com/UNI-META)
+[🪙Blockify](https://github.com/Blockify-1)
+[🪙BitRocket](https://github.com/BitRockets)
 [🪙Sectorverse](https://github.com/Sectorverse)
+[🪙CardBoard](https://github.com/CardBoard-1)
+
+[🪙NFF](https://github.com/NFF-1)
+[🪙AVIAN](https://github.com/AVIAN-1)
+[🪙Dappfolio](https://github.com/Dappfolio)
+[🪙SubTerrain](https://github.com/SubTerrain)
+[🪙HFW](https://github.com/HFW-1)
+[🪙IGNITE](https://github.com/IGNITE-1)
+
+[🪙Dapp Store](https://github.com/Dapp-Store-1)
 
 ## Currently Learning
 MERN Stack and Blockchain Development
