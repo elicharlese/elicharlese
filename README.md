@@ -36,6 +36,14 @@ I also work in GIS analysis and Salesforce development - Python, LWC and APEX.
 [🪙HFW](https://github.com/HFW-1)
 [🪙IGNITE](https://github.com/IGNITE-1)
 [🪙Dapp Store](https://github.com/Dapp-Store-1)
+[🪙BITSTREAM](https://github.com/BITSTREAM-1)
+[🪙ENTIRE](https://github.com/ENTIRE-1)
+[🪙employable](https://github.com/employable-1)
+[🪙bi-pass](https://github.com/bi-pass)
+[🪙mapitect](https://github.com/mapitect)
+[🪙Fields Hands](https://github.com/Field-Hands)
+[🪙Across The Block](https://github.com/Across-The-Block)
+[🪙Rings](https://github.com/Rings-1)
 
 ## Currently Learning
 MERN Stack and Blockchain Development
