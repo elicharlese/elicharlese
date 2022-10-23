@@ -1,6 +1,6 @@
 # Elias Estrada
-I am mainly a full-stack blockchain and developer - React, Solidity, Node.js and Next.js.
-I also work in GIS analysis and Salesforce development - Python, LWC and APEX.
+I am mainly a full-stack and blockchain developer - React, Solidity, Node.js and Next.js.
+Howver I also have experience in GIS analysis and Salesforce development - Python, LWC and APEX.
 
 ## Cleanfolio
 [⚒️Still under works](https://elicharlese-cleanfolio.vercel.app/)
