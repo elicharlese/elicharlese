@@ -71,4 +71,5 @@ Bash, Rust, Go, Java and C++
 [💲 Donate with Ethereum](https://en.cryptobadges.io/donate/0xA0E2284C43DbfcFdd0eE468c1b7a331b9B9F9001)
 
 ### Tags
-`React` `React Native` `Redux` `Javascript` `Node.js` `Next.js`
+`React` `React Native` `Redux` `Javascript` `Node.js` `Next.js` `SQL` `MongoDB` `CI/CD` `GitHub Actions`
+`Solidity` `GETH`
