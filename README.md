@@ -27,6 +27,7 @@ However I also have experience in GIS analysis and Salesforce development - Pyth
 [🪙UNI-META](https://github.com/UNI-META)
 [🪙Blockify](https://github.com/Blockify-1)
 [🪙BitRocket](https://github.com/BitRockets)
+
 [🪙Sectorverse](https://github.com/Sectorverse)
 [🪙CardBoard](https://github.com/CardBoard-1)
 [🪙NFF](https://github.com/NFF-1)
@@ -38,6 +39,7 @@ However I also have experience in GIS analysis and Salesforce development - Pyth
 [🪙Dapp Store](https://github.com/Dapp-Store-1)
 [🪙BITSTREAM](https://github.com/BITSTREAM-1)
 [🪙ENTIRE](https://github.com/ENTIRE-1)
+
 [🪙employable](https://github.com/employable-1)
 [🪙bi-pass](https://github.com/bi-pass)
 [🪙mapitect](https://github.com/mapitect)
