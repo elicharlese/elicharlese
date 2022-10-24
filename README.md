@@ -1,7 +1,7 @@
 # Elias Estrada
-I am mainly a full-stack and blockchain developer - React, Solidity, Node.js and Next.js.
+I am mainly a full-stack and blockchain developer - React, React Native, Solidity, Node.js and Next.js.
 
-However I also have experience in GIS analysis and Salesforce development - Python, LWC and APEX.
+However I also have experience in GIS analysis and Salesforce development - API's, Python, LWC and APEX.
 
 ## Cleanfolio
 [⚒️Still under works](https://elicharlese-cleanfolio.vercel.app/)
@@ -69,3 +69,6 @@ Bash, Rust, Go, Java and C++
 [👋 Direct Hire](https://www.upwork.com/workwith/coachcec)
 
 [💲 Donate with Ethereum](https://en.cryptobadges.io/donate/0xA0E2284C43DbfcFdd0eE468c1b7a331b9B9F9001)
+
+### Tags
+`React` `React Native` `Redux` `Javascript` `Node.js` `Next.js`
