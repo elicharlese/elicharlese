@@ -48,7 +48,7 @@ However I also have experience in GIS analysis and Salesforce development - API'
 [🪙Rings](https://github.com/Rings-1)
 
 ## Currently Learning
-MERN Stack and Blockchain Development
+MERN and Blockchain Development
 
 <!-- ## Currently Interning
 Salesforce at Collaqor -->
