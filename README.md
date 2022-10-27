@@ -5,8 +5,8 @@ However I also have experience in GIS analysis and Salesforce development - API'
 
 ## Cleanfolio
 [⚒️Still under works](https://elicharlese-cleanfolio.vercel.app/)
-[📂Cleanfolio Projects](https://app.zenhub.com/workspaces/cleanfolio-626b5a88d349c5001e31e2b4/board?repos=493495279,534392576,534393342)
-[📂Codedamn Projects](https://app.zenhub.com/workspaces/codedamn-projects-63517aa77c4c8c6cf7ea5264)
+[📂Cleanfolio Projects](https://github.com/users/elicharlese/projects/10)
+[📂Codedamn Projects](https://github.com/users/elicharlese/projects/11)
 
 [👨‍💻Codedamn Accelerator](https://codedamn.com/user/eliasestradac)
 
