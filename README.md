@@ -1,7 +1,5 @@
 # Elias Estrada
-I am mainly a full-stack and blockchain developer - React, React Native, Solidity, Node.js and Next.js.
-
-However I also have experience in GIS analysis and Salesforce development - API's, Python, LWC and APEX.
+I am mainly a full-stack and blockchain developer - React, React Native, Solidity, Node.js and Next.js. However, I also have experience in GIS analysis and Salesforce development - API's, Python, LWC and APEX. Also, I am a graduate from the University of California, Santa Barbara with a degree in Geography (emphasis in GIS).
 
 ## Cleanfolio
 [⚒️Building Responsiveness](https://elicharlese-cleanfolio.vercel.app/)
@@ -9,6 +7,7 @@ However I also have experience in GIS analysis and Salesforce development - API'
 [📂Codedamn Projects](https://github.com/users/elicharlese/projects/11)
 
 [👨‍💻Codedamn Certificates](https://codedamn.com/user/eliasestradac)
+[👨‍💻Additional Certifications](https://www.credly.com/users/elias-estrada/badges)
 
 ## Current Projects
 ### Major Organizations
