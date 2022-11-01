@@ -8,7 +8,7 @@ However I also have experience in GIS analysis and Salesforce development - API'
 [📂Cleanfolio Projects](https://github.com/users/elicharlese/projects/10)
 [📂Codedamn Projects](https://github.com/users/elicharlese/projects/11)
 
-[👨‍💻Codedamn Accelerator](https://codedamn.com/user/eliasestradac)
+[👨‍💻Codedamn Certificates](https://codedamn.com/user/eliasestradac)
 
 ## Current Projects
 ### Major Organizations
@@ -71,5 +71,5 @@ Bash, Rust, Go, Java and C++
 [💲 Donate with Ethereum](https://en.cryptobadges.io/donate/0xA0E2284C43DbfcFdd0eE468c1b7a331b9B9F9001)
 
 ### Tags
-`React` `React Native` `Redux` `Javascript` `Node.js` `Next.js` `SQL` `MongoDB` `CI/CD` `GitHub Actions` `Python` `MERN`
+`ArcGIS` `React` `React Native` `Redux` `Javascript` `Node.js` `Next.js` `SQL` `MongoDB` `CI/CD` `GitHub Actions` `Python` `MERN`
 `Solidity` `GETH`
