@@ -4,7 +4,7 @@ I am mainly a full-stack and blockchain developer - React, React Native, Solidit
 However I also have experience in GIS analysis and Salesforce development - API's, Python, LWC and APEX.
 
 ## Cleanfolio
-[⚒️Building Responsiveness(https://elicharlese-cleanfolio.vercel.app/)
+[⚒️Building Responsiveness](https://elicharlese-cleanfolio.vercel.app/)
 [📂Cleanfolio Projects](https://github.com/users/elicharlese/projects/10)
 [📂Codedamn Projects](https://github.com/users/elicharlese/projects/11)
 
