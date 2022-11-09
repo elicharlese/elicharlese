@@ -70,4 +70,4 @@ Bash, Rust, Go, Java and C++
 [💲 Donate with Ethereum](https://en.cryptobadges.io/donate/0xA0E2284C43DbfcFdd0eE468c1b7a331b9B9F9001)
 
 ### Tags
-`ArcGIS` `Material UI` `React` `React Native` `Redux` `Javascript` `Node.js` `Next.js` `Vue` `Angular` `SQL` `MongoDB` `Vercel` `CI/CD` `GitHub Actions` `REST/SOAP` `RapidAPI` `Python` `MERN` `MEAN` `Solidity` `GETH` `Solana` `Rust` `AWS` `GCP` `Google Analytics` `Adobe`
+`ArcGIS` `Material UI` `React` `React Native` `Redux` `Javascript` `Node.js` `Next.js` `Vue` `Angular` `SQL` `MongoDB` `Vercel` `CI/CD` `GitHub Actions` `REST/SOAP` `RapidAPI` `Python` `MERN` `MEAN` `Solidity` `GETH` `Solana` `Rust` `AWS` `GCP` `Adobe Suite`
