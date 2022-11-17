@@ -2,7 +2,7 @@
 My main focus is on full-stack and blockchain development - React, React Native, Solidity, Node.js and Next.js. However, I also have experience in Project Management, GIS analysis and Salesforce - API's, Python, LWC and APEX. In addition, I graduated from the University of California, Santa Barbara with a degree in Geography (emphasis in GIS).
 
 ## Cleanfolio
-[⚒️Beta Deployment](https://cleanfolio.framer.website)
+[⚛️Beta Deployment](https://cleanfolio.framer.website)
 [📂Cleanfolio Projects](https://github.com/users/elicharlese/projects/10)
 [📂Codedamn Projects](https://github.com/users/elicharlese/projects/11)
 
