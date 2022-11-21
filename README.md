@@ -55,7 +55,7 @@ Salesforce at Collaqor -->
 ## What's up Next?
 Bash, Rust, Go, Java and C++
 
-[💻DASH](https://github.com/elicharlese/DASH)[👀Preview](https://form-promote-655163.framer.app/)
+[💻 DASH](https://github.com/elicharlese/DASH) | [Preview](https://form-promote-655163.framer.app/)
 
 ## Message Me 
 [🔗LinkedIn](linkedin.com/in/eliasestrada/)
