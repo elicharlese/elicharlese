@@ -1,5 +1,5 @@
 # <img src="https://user-images.githubusercontent.com/61543012/202894820-0fadc8ce-22d9-4525-9162-26c1d21df479.png" height="30" width="30" align-items="center" justify-content="center" /> Elias Estrada
-My main focus is on full-stack and blockchain development - React, React Native, Solidity, Node.js and Next.js. However, I also have experience in Project Management, GIS analysis and Salesforce - API's, Python, LWC and APEX. In addition, I graduated from the University of California, Santa Barbara with a degree in Geography (emphasis in GIS).
+My main focus is on full-stack and blockchain development - React, React Native, Solidity,Redux, Typescript, Node.js and Next.js. However, I also have experience in Project Management, GIS analysis and Salesforce - API's, Python, LWC and APEX. In addition, I graduated from the University of California, Santa Barbara with a degree in Geography (emphasis in GIS).
 
 ## Cleanfolio
 [⚛️Beta Deployment](https://cleanfolio.framer.website)
