@@ -67,7 +67,9 @@ Bash, Rust, Go, Java and C++
 
 [👋 Direct Hire](https://www.upwork.com/workwith/coachcec)
 
-💲Donate with Ethereum: 0xA0E2284C43DbfcFdd0eE468c1b7a331b9B9F9001
+[💲Donate with Ethereum:](https://etherscan.io/address/0xa0e2284c43dbfcfdd0ee468c1b7a331b9b9f9001) 0xA0E2284C43DbfcFdd0eE468c1b7a331b9B9F9001
+
+<img src="https://user-images.githubusercontent.com/61543012/202960409-0aa0effa-7fe6-4267-a3bc-f8a2113d6130.png" height="150" width="150" align-items="center" justify-content="center" />
 
 ### Tags
 `ArcGIS` `Material UI` `React` `React Native` `Redux` `Javascript` `Node.js` `Next.js` `Vue` `Angular` `SQL` `MongoDB` `Vercel` `CI/CD` `GitHub Actions` `REST/SOAP` `RapidAPI` `Python` `MERN` `MEAN` `Solidity` `GETH` `Solana` `Rust` `AWS` `GCP` `Adobe Suite`
