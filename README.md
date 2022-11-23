@@ -6,8 +6,8 @@ My main focus is on full-stack and blockchain development - React, React Native,
 [📂Cleanfolio Projects](https://github.com/users/elicharlese/projects/10)
 [📂Codedamn Projects](https://github.com/users/elicharlese/projects/11)
 
-[👨‍💻Codedamn Certificates](https://codedamn.com/user/eliasestradac)
-[👨‍💻Additional Certifications](https://www.credly.com/users/elias-estrada/badges)
+[👨‍💻Codedamn](https://codedamn.com/user/eliasestradac)
+[👨‍💻Certifications](https://www.credly.com/users/elias-estrada/badges)
 
 ## Current Projects
 ### Major Organizations
