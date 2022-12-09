@@ -63,7 +63,7 @@ Bash, Rust, Go, Java and C++
 [🔗Behance](https://www.behance.net/eliasestrada3)
 
 ## Hire Me 
-🧐 Looking for status updates on a job? [Check your dashboard.](https://elicharlese-cleanfolio.vercel.app/dashboard)
+🧐 Looking for status updates on a job? [Check your dashboard.](https://cleanfolio.framer.website/dashboard)
 
 [👋 Direct Hire](https://www.upwork.com/workwith/coachcec)
 
