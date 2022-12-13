@@ -54,7 +54,7 @@ MERN and Blockchain Development
 Salesforce at Collaqor -->
 
 ## What's up Next?
-Bash, Rust, Go, Java and C++
+Python and Software Development
 
 [💻 DASH](https://github.com/elicharlese/DASH) | [Preview](https://dash.framer.website/dash)
 
