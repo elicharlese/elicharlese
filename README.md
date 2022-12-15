@@ -1,6 +1,6 @@
 # <img src="https://user-images.githubusercontent.com/61543012/202894820-0fadc8ce-22d9-4525-9162-26c1d21df479.png" height="30" width="30" align-items="center" justify-content="center" /> Elias Estrada
 ### Developer - Financer - Trader
-<mark>My main focus is on web3 tech stacks and software development via container components</mark> - React, React Native, Solidity, Redux, Typescript, Node.js and Next.js. However, I also have experience in Project Management, GIS analysis and Salesforce - API's, Python, LWC and APEX. In addition, I graduated from the University of California, Santa Barbara with a degree in Geography (emphasis in GIS).
+My main focus is on web3 tech stacks and software development and containerization. - React, React Native, Solidity, Redux, Typescript, Node.js and Next.js. However, I also have experience in Project Management, GIS analysis and Salesforce - API's, Python, LWC and APEX. In addition, I graduated from the University of California, Santa Barbara with a degree in Geography (emphasis in GIS).
 
 ## Cleanfolio
 [⚛️Beta Deployment](https://cleanfolio.framer.website)
@@ -64,13 +64,44 @@ Python and Software Development
 [🔗Behance](https://www.behance.net/eliasestrada3)
 
 ## Hire Me 
-🧐 Looking for status updates on a job? [Check your dashboard.](https://cleanfolio.framer.website/dashboard)
+[👋 Direct Hire](https://www.upwork.com/workwith/coachcec) 🧐 Looking for status updates on a job? [Check your dashboard.](https://cleanfolio.framer.website/dashboard)
 
-[👋 Direct Hire](https://www.upwork.com/workwith/coachcec)
+[💲 Donate with Ethereum:](https://etherscan.io/address/0xa0e2284c43dbfcfdd0ee468c1b7a331b9b9f9001) 0xA0E2284C43DbfcFdd0eE468c1b7a331b9B9F9001
 
-[💲Donate with Ethereum:](https://etherscan.io/address/0xa0e2284c43dbfcfdd0ee468c1b7a331b9b9f9001) 0xA0E2284C43DbfcFdd0eE468c1b7a331b9B9F9001
-
-<img src="https://user-images.githubusercontent.com/61543012/202960409-0aa0effa-7fe6-4267-a3bc-f8a2113d6130.png" height="150" width="150" align-items="center" justify-content="center" />
+```topojson
+{
+  "type": "Topology",
+  "transform": {
+    "scale": [0.0005000500050005, 0.00010001000100010001],
+    "translate": [100, 0]
+  },
+  "objects": {
+    "example": {
+      "type": "GeometryCollection",
+      "geometries": [
+        {
+          "type": "Point",
+          "properties": {"prop0": "value0"},
+          "coordinates": [4000, 5000]
+        },
+        {
+          "type": "LineString",
+          "properties": {"prop0": "value0", "prop1": 0},
+          "arcs": [0]
+        },
+        {
+          "type": "Polygon",
+          "properties": {"prop0": "value0",
+            "prop1": {"this": "that"}
+          },
+          "arcs": [[1]]
+        }
+      ]
+    }
+  },
+  "arcs": [[[4000, 0], [1999, 9999], [2000, -9999], [2000, 9999]],[[0, 0], [0, 9999], [2000, 0], [0, -9999], [-2000, 0]]]
+}
+```
 
 ### Tags
 `ArcGIS` `Material UI` `React` `React Native` `Redux` `Javascript` `Node.js` `Next.js` `Vue` `Angular` `SQL` `MongoDB` `Vercel` `CI/CD` `GitHub Actions` `REST/SOAP` `RapidAPI` `Python` `MERN` `MEAN` `Solidity` `GETH` `Solana` `Rust` `AWS` `GCP` `Adobe Suite`
