@@ -48,15 +48,24 @@
 [🪙Rings](https://github.com/Rings-1)
 
 ## Currently Learning
-MERN and Blockchain Development
-
-<!-- ## Currently Interning
-Salesforce at Collaqor -->
+Full-Stack and Web 3.0 Development
 
 ## What's up Next?
 Python and Software Development
 
 [💻 DASH](https://github.com/elicharlese/DASH) | [Preview](https://dash.framer.website/dash)
+
+## Certifications
+<details><summary>Design+Code</summary>
+  <p>- <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Framer</a></p>
+  <p>- <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Figma</a></p>
+  <p>- <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Swift</a></p>
+</details>
+<!-- <details><summary>Trailhead</summary>
+  <p>- <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Salesforce Developer</a></p>
+  <p>- <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Salesforce Admin</a></p>
+  <p>- <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Salesforce Architect</a></p>
+</details> -->
 
 ## Message Me 
 [🔗LinkedIn](linkedin.com/in/eliasestrada/)
