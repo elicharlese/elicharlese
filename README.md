@@ -68,35 +68,5 @@ Python and Software Development
 
 [💲 Donate with Ethereum:](https://etherscan.io/address/0xa0e2284c43dbfcfdd0ee468c1b7a331b9b9f9001) 0xA0E2284C43DbfcFdd0eE468c1b7a331b9B9F9001
 
-```topojson
-{
-  "type": "Topology",
-  "transform": {
-    "scale": [0.0005000500050005, 0.00010001000100010001],
-    "translate": [100, 0]
-  },
-  "objects": {
-    "example": {
-      "type": "GeometryCollection",
-      "geometries": [
-        {
-          "type": "Point",
-          "properties": {"prop0": "value0"},
-          "coordinates": [4000, 5000]
-        },
-        {
-          "type": "Polygon",
-          "properties": {"prop0": "value0",
-            "prop1": {"this": "that"}
-          },
-          "arcs": [[1]]
-        }
-      ]
-    }
-  },
-  "arcs": [[[4000, 0], [1999, 9999], [2000, -9999], [2000, 9999]],[[0, 0], [0, 9999], [2000, 0], [0, -9999], [-2000, 0]]]
-}
-```
-
 ### Tags
 `ArcGIS` `Material UI` `React` `React Native` `Redux` `Javascript` `Node.js` `Next.js` `Vue` `Angular` `SQL` `MongoDB` `Vercel` `CI/CD` `GitHub Actions` `REST/SOAP` `RapidAPI` `Python` `MERN` `MEAN` `Solidity` `GETH` `Solana` `Rust` `AWS` `GCP` `Adobe Suite`
