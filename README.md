@@ -57,49 +57,62 @@ Python and Software Development
 
 ## Certifications
 <details><summary>📃 Design+Code</summary>
-<!--   <p>- <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Framer</a></p>
-  <p>- <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Figma</a></p>
-  <p>- <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Swift</a></p> -->
+  <p>[ ] <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Framer</a></p>
+  <p>[ ] <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Figma</a></p>
+  <p>[ ] <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Swift</a></p>
 </details>
 <details><summary>📃 Trailhead</summary>
-<!--   <p>- <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Salesforce Developer</a></p>
-  <p>- <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Salesforce Admin</a></p>
-  <p>- <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Salesforce Architect</a></p> -->
+  <p>[ ] <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Salesforce Developer</a></p>
+  <p>[ ] <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Salesforce Admin</a></p>
+  <p>[ ] <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Salesforce Architect</a></p>
 </details>
 <details><summary>📃 DataCamp</summary>
-<!--   <p>- <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Framer</a></p>
-  <p>- <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Figma</a></p>
-  <p>- <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Swift</a></p> -->
+  <p>[ ] <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">SQL</a></p>
+  <p>[ ] <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">R</a></p>
+  <p>[ ] <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Spreadsheets</a></p>
+  <p>[ ] <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Tableau</a></p>
+  <p>[ ] <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Theory</a></p>
 </details>
 <details><summary>📃 Codecademy</summary>
-<!--   <p>- <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Framer</a></p>
-  <p>- <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Figma</a></p>
-  <p>- <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Swift</a></p> -->
+  <p>[ ] <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Data Scientist: Machine Learning Specialist</a></p>
+  <p>[ ] <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Data Scientist: Analytics Specialist</a></p>
+  <p>[ ] <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Data Scientist: Inference Specialist</a></p>
+  <p>[ ] <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Data Scientist: Natural Language Processing Specialist</a></p>
 </details>
 <details><summary>📃 A Cloud Guru</summary>
-<!--   <p>- <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Framer</a></p>
-  <p>- <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Figma</a></p>
-  <p>- <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Swift</a></p> -->
+  <p>[ ] <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">AWS</a></p>
+  <p>[ ] <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Azure</a></p>
+  <p>[ ] <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Google Cloud</a></p>
+  <p>[ ] <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Linux</a></p>
+  <p>[ ] <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Containers</a></p>
 </details>
 <details><summary>📃 Pluralsight</summary>
-<!--   <p>- <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Framer</a></p>
-  <p>- <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Figma</a></p>
-  <p>- <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Swift</a></p> -->
+  <p>[ ] <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Software Development</a></p>
+  <p>[ ] <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Project Management</a></p>
+  <p>[ ] <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Cloud</a></p>
+  <p>[ ] <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Data</a></p>
+  <p>[ ] <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">IT Ops</a></p>
+  <p>[ ] <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Security</a></p>
 </details>
 <details><summary>📃 Cloud Academy</summary>
-<!--   <p>- <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Framer</a></p>
-  <p>- <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Figma</a></p>
-  <p>- <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Swift</a></p> -->
+  <p>[ ] <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Business Management</a></p>
+  <p>[ ] <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Cybersecurity</a></p>
+  <p>[ ] <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Big Data</a></p>
+  <p>[ ] <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Cloud Computing</a></p>
+  <p>[ ] <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Machine Learning</a></p>
+  <p>[ ] <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Cloud Migration</a></p>
+  <p>[ ] <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Dev Ops</a></p>
+  <p>[ ] <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Serverless</a></p>
 </details>
 <details><summary>📃 ESRI Academy</summary>
-<!--   <p>- <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Framer</a></p>
-  <p>- <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Figma</a></p>
-  <p>- <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Swift</a></p> -->
+  <p>[ ] <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">ArcGIS Pro Fundamentals</a></p>
+  <p>[ ] <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">GIS Fundamentals</a></p>
+  <p>[ ] <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">ArcGIS Technology for Spatial Data Science</a></p>
+  <p>[ ] <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">ArcGIS Online Fundamentals</a></p>
 </details>
 <details><summary>📃 Pinescript</summary>
-<!--   <p>- <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Framer</a></p>
-  <p>- <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Figma</a></p>
-  <p>- <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Swift</a></p> -->
+  <p>[ ] <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">Pine Script Mastery Course</a></p>
+  <p>[ ] <a href="https://www.linkedin.com/in/elicharlese/details/certifications/">thinkScript Basic & Advanced</a></p>
 </details>
 
 ## Message Me 
