@@ -18,10 +18,10 @@
 
 ### Minor Organizations
 [🪙3RUPT](https://cleanfolio.framer.website/3rupt)
-[🪙Bitcellular](https://github.com/Bitcellular)
-[🪙Cheers](https://github.com/Cheers-Browser)
-[🪙Half & Half](https://github.com/Half-Half-1)
-[🪙The Public](https://github.com/The-Public-3-0)
+[🪙Bitcellular](https://cleanfolio.framer.website/bitcellular)
+[🪙Cheers](https://cleanfolio.framer.website/cheers)
+[🪙Half & Half](https://cleanfolio.framer.website/half-half)
+[🪙The Public](https://cleanfolio.framer.website/the-public)
 [🪙Knott Bank](https://github.com/Knott-Bank)
 [🪙Hooden](https://github.com/Hooden-1)
 [🪙UNI-META](https://github.com/UNI-META)
