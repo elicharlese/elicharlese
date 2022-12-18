@@ -17,7 +17,7 @@
 [🔐Tradent](https://github.com/Tradent)
 
 ### Minor Organizations
-[🪙3RUPT](https://github.com/3rupt)
+[🪙3RUPT](https://cleanfolio.framer.website/3rupt)
 [🪙Bitcellular](https://github.com/Bitcellular)
 [🪙Cheers](https://github.com/Cheers-Browser)
 [🪙Half & Half](https://github.com/Half-Half-1)
