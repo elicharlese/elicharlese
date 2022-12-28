@@ -7,6 +7,7 @@
 [📂Cleanfolio Projects](https://github.com/users/elicharlese/projects/10)
 [📂Codedamn Projects](https://github.com/users/elicharlese/projects/11)
 
+[👨‍💻Resume](https://www.canva.com/design/DAFWFDwArCI/T_M8S2HVb2ZFpwV9WxNclw/view?utm_content=DAFWFDwArCI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 [👨‍💻Codedamn](https://codedamn.com/user/eliasestradac)
 [👨‍💻Certifications](https://www.credly.com/users/elias-estrada/badges)
 
