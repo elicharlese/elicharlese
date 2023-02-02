@@ -127,4 +127,4 @@ Python and Software Development
 [💲 Donate with Ethereum:](https://etherscan.io/address/0xa0e2284c43dbfcfdd0ee468c1b7a331b9b9f9001) 0xA0E2284C43DbfcFdd0eE468c1b7a331b9B9F9001
 
 ### Tags
-`ArcGIS` `Material UI` `React` `React Native` `Redux` `Javascript` `Node.js` `Next.js` `Vue` `Angular` `SQL` `MongoDB` `Vercel` `CI/CD` `GitHub Actions` `REST/SOAP` `RapidAPI` `Python` `MERN` `MEAN` `Solidity` `GETH` `Solana` `Rust` `AWS` `GCP` `OpenShift`
+`ArcGIS` `Material UI` `React` `React Native` `Redux` `Javascript` `Node.js` `Next.js` `Vue` `Angular` `SQL` `MongoDB` `Vercel` `CI/CD` `GitHub Actions` `REST/SOAP` `API` `Python` `MERN` `MEAN` `Solidity` `GETH` `Solana` `Rust` `AWS` `GCP` `OpenShift` `Artifical Intelligence` `NLP/NLU`
