@@ -49,12 +49,14 @@
 [🪙Rings](https://cleanfolio.framer.website/rings)
 
 ## Currently Learning
-Full-Stack and Web 3.0 Development
-
-## What's up Next?
 Python and Software Development
 
+## What's up Next?
+IBM/Red Hat Development and Cloud Engineering
+
 [💻 DASH](https://github.com/elicharlese/DASH) | [Preview](https://dash.framer.website/dash)
+
+[💻 GSL](https://github.com/elicharlese/GSL) | [Preview](https://gsl.framer.website/)
 
 ## Certifications
 <details><summary>📃 Design+Code</summary>
