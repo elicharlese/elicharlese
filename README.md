@@ -1,5 +1,33 @@
 # <img src="https://user-images.githubusercontent.com/61543012/202894820-0fadc8ce-22d9-4525-9162-26c1d21df479.png" height="30" width="30" align-items="center" justify-content="center" /> Developer - Financer - Trader
 
+<div align="left">
+  <a href="https://twitter.com/coachcec">
+    <img
+      src="https://img.shields.io/twitter/follow/omBratteng?label=Twitter&logo=twitter&style=flat-square&color=7dbee3&logoColor=ffffff"
+      alt="Twitter"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/elicharlese/">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=7dbee3&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
+  <a href="https://www.twitch.tv/bangobongo17">
+    <img 
+      alt="Twitch Status" 
+      src="https://img.shields.io/twitch/status/bangobongo17?color=7dbee3&logoColor=7dbee3&style=flat-square"
+    >
+  </a>
+  <a href="https://api.daily.dev/get?r=omBratteng" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://raw.githubusercontent.com/omBratteng/omBratteng/devcard/devcard.svg"
+    />
+  </a>
+</div>
+
 <!-- ![Metrics](https://raw.githubusercontent.com/elicharlese/github-metrics/github-metrics.svg)
 ![Notable contributions](https://raw.githubusercontent.com/elicharlese/elicharlese/github-metrics/notable.svg)
 ![Achievements](https://raw.githubusercontent.com/elicharlese/elicharlese/github-metrics/achievements.svg)
@@ -8,9 +36,10 @@
 
 **My main focus is on web3 tech stacks, cross-platform software and containerization** - React, React Native, Solidity, Redux, Typescript, Node.js and Next.js. However, I also have experience in Project Management, GIS analysis and Salesforce - API's, Python, LWC and APEX. University of California, Santa Barbara graduate with a degree in Geography (emphasis in GIS).
 
+## Cleanfolio
+
 [👋 Direct Hire](https://www.upwork.com/workwith/coachcec) 🧐 Looking for status updates on a job? [Check your dashboard.](https://cleanfolio.framer.website/dashboard)
 
-## Cleanfolio
 [⚛️Beta Deployment](https://cleanfolio.framer.website)
 [📂Cleanfolio Projects](https://github.com/users/elicharlese/projects/10)
 [📂Codedamn Projects](https://github.com/users/elicharlese/projects/11)
