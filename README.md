@@ -19,16 +19,9 @@
       src="https://img.shields.io/twitch/status/bangobongo17?color=7dbee3&logoColor=7dbee3&style=flat-square"
     >
   </a>
-<!--   <a href="https://api.daily.dev/get?r=elicharlese" target="_blank">
-    <img
-      width="256"
-      align="right"
-      src="https://raw.githubusercontent.com/elicharlese/elicharlese/devcard/devcard.svg"
-    />
-  </a> -->
   <a href="https://app.daily.dev/elicharlese">
     <img 
-         src="https://api.daily.dev/devcards/190ad0df8bbf423487b08fe4439caae2.png?r=a87" 
+         src="https://api.daily.dev/devcards/190ad0df8bbf423487b08fe4439caae2.png?r=f6n" 
          width="400"
          align="right"
          alt="Elias Estrada's Dev Card"
