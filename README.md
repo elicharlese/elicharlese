@@ -26,6 +26,14 @@
       src="https://raw.githubusercontent.com/elicharlese/elicharlese/devcard/devcard.svg"
     />
   </a> -->
+  <a href="https://app.daily.dev/elicharlese">
+    <img 
+         src="https://api.daily.dev/devcards/190ad0df8bbf423487b08fe4439caae2.png?r=a87" 
+         width="400"
+         align="right"
+         alt="Elias Estrada's Dev Card"
+    />
+  </a>
 </div>
 
 <!-- ![Metrics](https://raw.githubusercontent.com/elicharlese/github-metrics/github-metrics.svg)
