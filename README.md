@@ -1,5 +1,15 @@
 # <img src="https://user-images.githubusercontent.com/61543012/202894820-0fadc8ce-22d9-4525-9162-26c1d21df479.png" height="30" width="30" align-items="center" justify-content="center" /> Developer - Financer - Trader
-
+<p><strong>My main focus is on web3 tech stacks, cross-platform software and containerization</strong> - React, React Native, Solidity, Redux, Typescript, Node.js and Next.js. However, I also have experience in Project Management, GIS analysis and Salesforce - API's, Python, LWC and APEX. University of California, Santa Barbara graduate with a degree in Geography (emphasis in GIS).</p>
+<div align="right">
+  <a href="https://app.daily.dev/elicharlese">
+      <img 
+           src="https://api.daily.dev/devcards/190ad0df8bbf423487b08fe4439caae2.png?r=f6n" 
+           width="400"
+           align="right"
+           alt="Elias Estrada's Dev Card"
+      />
+    </a>
+</div>
 <div align="left">
   <a href="https://twitter.com/coachcec">
     <img
@@ -19,14 +29,6 @@
       src="https://img.shields.io/twitch/status/bangobongo17?color=7dbee3&logoColor=7dbee3&style=flat-square"
     >
   </a>
-  <a href="https://app.daily.dev/elicharlese">
-    <img 
-         src="https://api.daily.dev/devcards/190ad0df8bbf423487b08fe4439caae2.png?r=f6n" 
-         width="400"
-         align="right"
-         alt="Elias Estrada's Dev Card"
-    />
-  </a>
 </div>
 
 <!-- ![Metrics](https://raw.githubusercontent.com/elicharlese/github-metrics/github-metrics.svg)
@@ -34,8 +36,6 @@
 ![Achievements](https://raw.githubusercontent.com/elicharlese/elicharlese/github-metrics/achievements.svg)
 
 <!--[![@ombratteng's Holopin board](https://holopin.io/api/user/board?user=ombratteng)](https://holopin.io/@ombratteng) -->
-
-**My main focus is on web3 tech stacks, cross-platform software and containerization** - React, React Native, Solidity, Redux, Typescript, Node.js and Next.js. However, I also have experience in Project Management, GIS analysis and Salesforce - API's, Python, LWC and APEX. University of California, Santa Barbara graduate with a degree in Geography (emphasis in GIS).
 
 ## Cleanfolio
 
