@@ -3,7 +3,7 @@
 <div align="right">
   <a href="https://app.daily.dev/elicharlese">
       <img 
-           src="https://api.daily.dev/devcards/190ad0df8bbf423487b08fe4439caae2.png?r=f6n" 
+           src="https://api.daily.dev/devcards/190ad0df8bbf423487b08fe4439caae2.png?r=xa8" 
            width="400"
            align="right"
            alt="Elias Estrada's Dev Card"
