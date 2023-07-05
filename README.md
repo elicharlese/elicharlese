@@ -96,5 +96,7 @@ IBM/Red Hat Development and Cloud Engineering
 
 [💻 GSL](https://github.com/elicharlese/GSL) | [Preview](https://gsl.framer.website/)
 
+[💻 Spectre](https://github.com/elicharlese/spectre)
+
 ### Tags
 `ArcGIS` `Material UI` `React` `React Native` `Redux` `Javascript` `Node.js` `Next.js` `Vue` `Angular` `SQL` `MongoDB` `Vercel` `CI/CD` `GitHub Actions` `REST/SOAP` `API` `Python` `MERN` `MEAN` `Solidity` `GETH` `Solana` `Rust` `AWS` `GCP` `OpenShift` `Artifical Intelligence` `NLP/NLU`
