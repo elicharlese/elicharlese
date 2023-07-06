@@ -92,11 +92,11 @@ Python and Software Development
 ## What's up Next?
 IBM/Red Hat Development and Cloud Engineering
 
-[💻 DASH](https://github.com/elicharlese/DASH) | [Preview](https://dash.framer.website/dash)
+[💻 DASHED](https://github.com/elicharlese/DASHED) | [Preview](https://dashed.framer.ai/dash)
 
-[💻 GSL](https://github.com/elicharlese/GSL) | [Preview](https://gsl.framer.website/)
+[💻 GSL](https://github.com/elicharlese/GSL) | [Preview](https://gsl.framer.ai/)
 
-[💻 SPECTRA](https://github.com/elicharlese/SPECTRA)
+[💻 SPECTRA](https://github.com/elicharlese/SPECTRA) | [Preview](https://spectra.framer.ai/)
 
 ### Tags
 `ArcGIS` `Material UI` `React` `React Native` `Redux` `Javascript` `Node.js` `Next.js` `Vue` `Angular` `SQL` `MongoDB` `Vercel` `CI/CD` `GitHub Actions` `REST/SOAP` `API` `Python` `MERN` `MEAN` `Solidity` `GETH` `Solana` `Rust` `AWS` `GCP` `OpenShift` `Artifical Intelligence` `NLP/NLU`
