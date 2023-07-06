@@ -98,5 +98,7 @@ IBM/Red Hat Development and Cloud Engineering
 
 [💻 SPECTRA](https://github.com/elicharlese/SPECTRA) | [Preview](https://spectra.framer.ai/)
 
+[💻 OMNI](https://github.com/elicharlese/OMNI) | [Preview](https://omni.framer.ai/)
+
 ### Tags
 `ArcGIS` `Material UI` `React` `React Native` `Redux` `Javascript` `Node.js` `Next.js` `Vue` `Angular` `SQL` `MongoDB` `Vercel` `CI/CD` `GitHub Actions` `REST/SOAP` `API` `Python` `MERN` `MEAN` `Solidity` `GETH` `Solana` `Rust` `AWS` `GCP` `OpenShift` `Artifical Intelligence` `NLP/NLU`
