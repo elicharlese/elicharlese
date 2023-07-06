@@ -56,8 +56,8 @@
 [🔐Tradent](https://github.com/Tradent)
 
 ### Minor Organizations
-[🪙3RUPT](https://cleanfolio.framer.website/3rupt)
-[🪙Bitcellular](https://cleanfolio.framer.website/bitcellular)
+[🪙3RUPT](https://github.com/Tradent/3rupt)
+[🪙Bitcellular](https://github.com/Tradent/bitcellular)
 [🪙Cheers](https://cleanfolio.framer.website/cheers)
 [🪙Half & Half](https://cleanfolio.framer.website/half-half)
 [🪙The Public](https://cleanfolio.framer.website/the-public)
@@ -86,19 +86,21 @@
 [🪙Across The Block](https://cleanfolio.framer.website/across-the-block)
 [🪙Rings](https://cleanfolio.framer.website/rings)
 
+[🪙MKT4U](https://cleanfolio.framer.website/rings)
+
 ## Currently...
 Python and Software Development
 
 ## What's up Next?
-IBM/Red Hat Development and Cloud Engineering
+Hyper-automation tools (Conversational AI) and 
 
 [💻 DASHED](https://github.com/elicharlese/DASHED) | [Preview](https://dashed.framer.ai/dash)
 
 [💻 GSL](https://github.com/elicharlese/GSL) | [Preview](https://gsl.framer.ai/)
 
-[💻 SPECTRA](https://github.com/elicharlese/SPECTRA) | [Preview](https://spectra.framer.ai/)
-
 [💻 OMNI](https://github.com/elicharlese/OMNI) | [Preview](https://omni.framer.ai/)
+
+[💻 SPECTRA](https://github.com/elicharlese/SPECTRA) | [Preview](https://spectra.framer.ai/)
 
 ### Tags
 `ArcGIS` `Material UI` `React` `React Native` `Redux` `Javascript` `Node.js` `Next.js` `Vue` `Angular` `SQL` `MongoDB` `Vercel` `CI/CD` `GitHub Actions` `REST/SOAP` `API` `Python` `MERN` `MEAN` `Solidity` `GETH` `Solana` `Rust` `AWS` `GCP` `OpenShift` `Artifical Intelligence` `NLP/NLU`
