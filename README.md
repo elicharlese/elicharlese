@@ -94,7 +94,7 @@ Python and Software Development
 ## What's up Next?
 Hyper-automation tools (Conversational AI) and 
 
-[💻 DASHED](https://github.com/elicharlese/DASHED) | [Preview](https://dashed.framer.ai/dash)
+[💻 DASHED](https://github.com/elicharlese/DASHED) | [Preview](https://dashed.framer.ai/)
 
 [💻 GSL](https://github.com/elicharlese/GSL) | [Preview](https://gsl.framer.ai/)
 
