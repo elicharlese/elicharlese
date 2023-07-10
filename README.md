@@ -89,10 +89,10 @@
 [🪙MKT4U](https://cleanfolio.framer.website/rings)
 
 ## Currently...
-Python and Software Development
+Web3 and Software Development
 
 ## What's up Next?
-Hyper-automation tools (Conversational AI) and 
+Prompt Engineering and NFT Engineering
 
 [💻 DASHED](https://github.com/elicharlese/DASHED) | [Preview](https://dashed.framer.ai/)
 
