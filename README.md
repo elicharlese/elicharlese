@@ -11,12 +11,6 @@
     </a>
 </div>
 <div align="left">
-  <a href="https://twitter.com/coachcec">
-    <img
-      src="https://img.shields.io/twitter/follow/omBratteng?label=Twitter&logo=twitter&style=flat-square&color=7dbee3&logoColor=ffffff"
-      alt="Twitter"
-    />
-  </a>
   <a href="https://www.linkedin.com/in/elicharlese/">
     <img
       src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=7dbee3&label=LinkedIn&message=%E2%98%86"
