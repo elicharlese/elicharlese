@@ -72,7 +72,6 @@
 [💥Hooden](https://cleanfolio.framer.website/hooden)
 [💥UNI-META](https://cleanfolio.framer.website/uni-meta)
 [💥Blockify](https://cleanfolio.framer.website/blockify)
-
 [💥BitRocket](https://cleanfolio.framer.website/bitrocket)
 [💥Sectorverse](https://cleanfolio.framer.website/sectorverse)
 [💥CardBoard](https://cleanfolio.framer.website/cardboard)
@@ -83,7 +82,6 @@
 [💥HFW](https://cleanfolio.framer.website/hfw)
 [💥IGNITE](https://cleanfolio.framer.website/ignite)
 [💥Dapp Store](https://cleanfolio.framer.website/dapp-store)
-
 [💥BITSTREAM](https://cleanfolio.framer.website/bitstream)
 [💥ENTIRE](https://cleanfolio.framer.website/entire)
 [💥employable](https://cleanfolio.framer.website/employable)
