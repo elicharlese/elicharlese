@@ -48,6 +48,21 @@
 [🔐Tradent](https://github.com/Tradent)
 
 ### Minor Organizations
+[💥MKT4U](https://market4u.framer.ai/)
+[💥SEO Surge](https://market4u.framer.ai/)
+[💥DropFlow](https://market4u.framer.ai/)
+[💥Animateful](https://market4u.framer.ai/)
+[💥PitShop](https://market4u.framer.ai/)
+[💥ColorUpload](https://market4u.framer.ai/)
+[💥BrowserBuddy](https://market4u.framer.ai/)
+[💥AppThis](https://market4u.framer.ai/)
+[💥Virtantly](https://market4u.framer.ai/)
+[💥CryptoConciousness](https://market4u.framer.ai/)
+
+[💥TS.extensions](https://market4u.framer.ai/)
+[💥TS.expansions](https://market4u.framer.ai/)
+[💥TS.expressions](https://market4u.framer.ai/)
+
 [💥3RUPT](https://github.com/Tradent/3rupt)
 [💥Bitcellular](https://github.com/Tradent/bitcellular)
 [💥Cheers](https://cleanfolio.framer.website/cheers)
@@ -77,12 +92,6 @@
 [💥Fields Hands](https://cleanfolio.framer.website/field-hands)
 [💥Across The Block](https://cleanfolio.framer.website/across-the-block)
 [💥Rings](https://cleanfolio.framer.website/rings)
-
-[💥MKT4U](https://market4u.framer.ai/)
-[💥SEO Surge](https://market4u.framer.ai/)
-[💥DropFlow](https://market4u.framer.ai/)
-[💥Animateful](https://market4u.framer.ai/)
-[💥PitShop](https://market4u.framer.ai/)
 
 ## Currently...
 Web3 and Software Development
