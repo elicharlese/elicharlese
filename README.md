@@ -43,9 +43,9 @@
 
 ## Corporations
 ### Major Organizations
-[🛒Creative E-commerce Co.](https://github.com/Creative-Ecommerce-Co)
-[🌎TerraSolstice](https://github.com/TerraSolstice)
-[🔐Tradent](https://github.com/Tradent)
+[🛒Creative E-commerce Co.](https://cec.framer.ai)
+[🌎TerraSolstice](https://ts.framer.ai)
+[🔐Tradent](https://tdt.framer.ai)
 
 ### Minor Organizations
 [💥MKT4U](https://market4u.framer.ai/)
