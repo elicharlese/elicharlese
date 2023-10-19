@@ -97,15 +97,15 @@ Web3 and Software Development
 ## What's up Next?
 Prompt Engineering and Audio Engineering
 
-[💻 DASHED](https://github.com/elicharlese/DASHED) | [Preview](https://dashed.framer.ai/)
+[💻 DASHED](https://github.com/DASHED-OS/DASHED) | [Preview](https://dashed.framer.ai/)
 
-[💻 GSL](https://github.com/elicharlese/GSL) | [Preview](https://gsl.framer.ai/)
+[💻 GSL](https://github.com/GSL-AI/GSL) | [Preview](https://gsl.framer.ai/)
 
-[💻 OMNI](https://github.com/elicharlese/OMNI) | [Preview](https://omni.framer.ai/)
+[💻 OMNI](https://github.com/OMNI-VISIONS/OMNI) | [Preview](https://omni.framer.ai/)
 
-[💻 SPECTRA](https://github.com/elicharlese/SPECTRA) | [Preview](https://spectra.framer.ai/)
+[💻 SPECTRA](https://github.com/SPECTRA-SPATIAL/SPECTRA) | [Preview](https://spectra.framer.ai/)
 
-[💻 STOKE](https://github.com/elicharlese/SPECTRA) | [Preview](https://stoke.framer.ai/)
+[💻 STOKE](https://github.com/STOKE-CLI/STOKE) | [Preview](https://stoke.framer.ai/)
 
 ### Tags
 `ArcGIS` `Material UI` `React` `React Native` `Redux` `Javascript` `Node.js` `Next.js` `Vue` `Angular` `SQL` `MongoDB` `Vercel` `CI/CD` `GitHub Actions` `REST/SOAP` `API` `Python` `MERN` `MEAN` `Solidity` `GETH` `Solana` `Rust` `AWS` `GCP` `OpenShift` `Artifical Intelligence` `NLP/NLU`
