@@ -1,4 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/61543012/202894820-0fadc8ce-22d9-4525-9162-26c1d21df479.png" height="30" width="30" align-items="center" justify-content="center" /> Developer - Financer - Trader
+# Developer - Financer - Trader
 <p><strong>My main focus is on web3 tech stacks, cross-platform software and containerization</strong> - React, React Native, Solidity, Redux, Typescript, Node.js and Next.js. However, I also have experience in Project Management, GIS analysis and Salesforce - API's, Python, LWC and APEX. University of California, Santa Barbara graduate with a degree in Geography (emphasis in GIS).</p>
 <div align="right">
   <a href="https://app.daily.dev/elicharlese">
@@ -30,10 +30,9 @@
 ![Achievements](https://raw.githubusercontent.com/elicharlese/elicharlese/github-metrics/achievements.svg)
 
 <!--[![@ombratteng's Holopin board](https://holopin.io/api/user/board?user=ombratteng)](https://holopin.io/@ombratteng) -->
+## 💼 Cleanfolio
 
-## Cleanfolio
-
-[⚛️Beta Deployment](https://cleanfolio.framer.website)
+[⚛️Cleanfolio](https://cleanfolio.framer.website)
 [📂Cleanfolio Projects](https://github.com/users/elicharlese/projects/10)
 [📂Codedamn Projects](https://github.com/users/elicharlese/projects/11)
 
@@ -42,60 +41,11 @@
 [👋 Direct Hire](https://www.upwork.com/workwith/coachcec)
 
 ## Corporations
-### Major Organizations
-[🛒Creative E-commerce Co.](https://cec.framer.ai)
-[🌎TerraSolstice](https://ts.framer.ai)
-[🔐Tradent](https://tdt.framer.ai)
+[🛒Creative E-commerce Co.]() | [Preview](https://cec.framer.ai)
 
-### Minor Organizations
-[💥MKT4U](https://cec.framer.ai/)
-[💥SEO Surge](https://cec.framer.ai/)
-[💥DropFlow](https://cec.framer.ai/)
-[💥Animateful](https://cec.framer.ai/)
-[💥PitShop](https://cec.framer.ai/)
-[💥ColorUpload](https://cec.framer.ai/)
-[💥BrowserBuddy](https://cec.framer.ai/)
-[💥AppThis](https://cec.framer.ai/)
-[💥Virtantly](https://cec.framer.ai/)
-[💥CryptoConciousness](https://cec.framer.ai/)
+[🌎TerraSolstice](https://ts.framer.ai) | [Preview](https://ts.framer.ai)
 
-[💥TS.extensions](https://ts.framer.ai/)
-[💥TS.expansions](https://ts.framer.ai/)
-[💥TS.expressions](https://ts.framer.ai/)
-
-[💥3RUPT](https://tdt.framer.ai)
-[💥Bitcellular](https://tdt.framer.ai)
-[💥Cheers](https://tdt.framer.ai)
-[💥Half & Half](https://tdt.framer.ai)
-[💥The Public](https://tdt.framer.ai)
-[💥Knott Bank](https://tdt.framer.ai)
-[💥Hooden](https://tdt.framer.ai)
-[💥UNI-META](https://tdt.framer.ai)
-[💥Blockify](https://tdt.framer.ai)
-[💥BitRocket](https://tdt.framer.ai)
-[💥Sectorverse](https://tdt.framer.ai)
-[💥CardBoard](https://tdt.framer.ai)
-[💥NFF](https://tdt.framer.ai)
-[💥AVIAN](https://tdt.framer.ai)
-[💥Dappfolio](https://tdt.framer.ai)
-[💥SubTerrain](https://tdt.framer.ai)
-[💥HFW](https://tdt.framer.ai)
-[💥IGNITE](https://tdt.framer.ai)
-[💥Dapp Store](https://tdt.framer.ai)
-[💥BITSTREAM](https://tdt.framer.ai)
-[💥ENTIRE](https://tdt.framer.ai)
-[💥employable](https://tdt.framer.ai)
-[💥bi-pass](https://tdt.framer.ai)
-[💥mapitect](https://tdt.framer.ai)
-[💥Fields Hands](https://tdt.framer.ai)
-[💥Across The Block](https://tdt.framer.ai)
-[💥Rings](https://tdt.framer.ai)
-
-## Currently...
-Web3 and Software Development
-
-## What's up Next?
-Prompt Engineering and Audio Engineering
+[🔐Tradent](https://tdt.framer.ai) | [Preview](https://tdt.framer.ai)
 
 [💻 DASHED](https://github.com/DASHED-OS/DASHED) | [Preview](https://dashed.framer.ai/)
 
@@ -103,9 +53,15 @@ Prompt Engineering and Audio Engineering
 
 [💻 OMNI](https://github.com/OMNI-VISIONS/OMNI) | [Preview](https://omni.framer.ai/)
 
+[💻 STOKE](https://github.com/STOKE-CLI/STOKE) | [Preview](https://stoke.framer.ai/)
+
 [💻 SPECTRA](https://github.com/SPECTRA-SPATIAL/SPECTRA) | [Preview](https://spectra.framer.ai/)
 
-[💻 STOKE](https://github.com/STOKE-CLI/STOKE) | [Preview](https://stoke.framer.ai/)
+## Currently...
+Web3 and Software Development
+
+## What's up Next?
+Prompt Engineering and Audio Engineering
 
 ### Tags
 `ArcGIS` `Material UI` `React` `React Native` `Redux` `Javascript` `Node.js` `Next.js` `Vue` `Angular` `SQL` `MongoDB` `Vercel` `CI/CD` `GitHub Actions` `REST/SOAP` `API` `Python` `MERN` `MEAN` `Solidity` `GETH` `Solana` `Rust` `AWS` `GCP` `OpenShift` `Artifical Intelligence` `NLP/NLU`
