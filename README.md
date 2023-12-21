@@ -1,4 +1,4 @@
-# Developer - Financer - Trader
+# Developer - Trader
 <p><strong>My main focus is on web3 tech stacks, cross-platform software and containerization</strong> - React, React Native, Solidity, Redux, Typescript, Node.js and Next.js. However, I also have experience in Project Management, GIS analysis and Salesforce - API's, Python, LWC and APEX. University of California, Santa Barbara graduate with a degree in Geography (emphasis in GIS).</p>
 <div align="right">
   <a href="https://app.daily.dev/elicharlese">
