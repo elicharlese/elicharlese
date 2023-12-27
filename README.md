@@ -61,7 +61,7 @@
 Web3 and Software Development
 
 ## What's up Next?
-HackTheBox
+Certified Ethical Hacker (EC-Council) and Legal Essentials (eCornell)
 
 ### Tags
 `ArcGIS` `Material UI` `React` `React Native` `Redux` `Javascript` `Node.js` `Next.js` `Full-Stack` `SQL` `MongoDB` `Vercel` `CI/CD` `GitHub Actions` `REST/SOAP` `API` `Python` `MERN` `Smart Contracts` `Solidity` `GETH` `Solana` `Rust` `AWS` `GCP` `OpenShift` `Artifical Intelligence` `NLP/NLU`
