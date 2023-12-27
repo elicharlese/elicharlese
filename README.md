@@ -41,21 +41,21 @@
 [👋 Direct Hire](https://www.upwork.com/workwith/coachcec)
 
 ## Corporations
-[🛒Creative E-commerce Co.]() | [Preview](https://cec.framer.ai)
+[🛒Creative E-commerce Co.]() | [Preview](https://cec.framer.ai/contribute)
 
-[🌎TerraSolstice](https://ts.framer.ai) | [Preview](https://ts.framer.ai)
+[🌎TerraSolstice](https://ts.framer.ai) | [Preview](https://ts.framer.ai/contribute)
 
-[🔐Tradent](https://tdt.framer.ai) | [Preview](https://tdt.framer.ai)
+[🔐Tradent](https://tdt.framer.ai) | [Preview](https://tdt.framer.ai/contribute)
 
-[💻 DASHED](https://github.com/DASHED-OS/DASHED) | [Preview](https://dashed.framer.ai/)
+[💻 DASHED](https://github.com/DASHED-OS/DASHED) | [Preview](https://dashed.framer.ai/contribute)
 
-[💻 GSL](https://github.com/GSL-AI/GSL) | [Preview](https://gsl.framer.ai/)
+[💻 GSL](https://github.com/GSL-AI/GSL) | [Preview](https://gsl.framer.ai/contribute)
 
-[💻 OMNI](https://github.com/OMNI-VISIONS/OMNI) | [Preview](https://omni.framer.ai/)
+[💻 OMNI](https://github.com/OMNI-VISIONS/OMNI) | [Preview](https://omni.framer.ai/contribute)
 
-[💻 STOKE](https://github.com/STOKE-CLI/STOKE) | [Preview](https://stoke.framer.ai/)
+[💻 STOKE](https://github.com/STOKE-CLI/STOKE) | [Preview](https://stoke.framer.ai/contribute)
 
-[💻 SPECTRA](https://github.com/SPECTRA-SPATIAL/SPECTRA) | [Preview](https://spectra.framer.ai/)
+[💻 SPECTRA](https://github.com/SPECTRA-SPATIAL/SPECTRA) | [Preview](https://spectra.framer.ai/contribute)
 
 ## Currently...
 Web3 and Software Development
