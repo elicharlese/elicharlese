@@ -29,10 +29,7 @@
 <br/>
 
 ## 💼 Cleanfolio
-In addition to the web3 marketplace and crowdfunding center on my cleanfolio, I have also created a set of applications as final projects, which are practical tools for web3 development and cooperation. 
-
-### Purpose
-For example, one of the applications is a decentralized task management tool that enables efficient collaboration among web3 developers. Another application is a blockchain-based resource allocation platform designed to streamline the process of distributing resources within web3 projects. These practical tools aim to support and enhance the web3 development process, fostering effective cooperation and innovation within the ecosystem. For full details, view the [documentation](https://cleanfolio.framer.website/docs).
+In addition to the web3 marketplace and crowdfunding center on my cleanfolio, I have also created a set of applications as final projects, which are practical tools for web3 development and cooperation. For full details, view the [documentation](https://cleanfolio.framer.website/docs).
 
 ### Installation & Setup
 ```bash
