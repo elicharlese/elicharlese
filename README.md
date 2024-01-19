@@ -1,4 +1,4 @@
-# <img src="https://github.com/elicharlese/elicharlese/assets/61543012/308d0382-d956-4e02-986b-677a6efa4823" alt="Image" style="width: 100px; height:50px; padding: 0px;">  Developer - Student - Trader
+# <img src="https://github.com/elicharlese/elicharlese/assets/61543012/308d0382-d956-4e02-986b-677a6efa4823" alt="Image" style="width: 100px; height:50px; padding: 0px;">  Developer - Trader
 
 <p><strong>My main focus is on web3 tech stacks, cross-platform software and containerization</strong> - React, React Native, Solidity, Redux, Typescript, Node.js and Next.js. However, I also have experience in Project Management, GIS analysis and Salesforce - API's, Python, LWC and APEX. University of California, Santa Barbara graduate with a degree in Geography (emphasis in GIS).</p>
 <div align="right">
