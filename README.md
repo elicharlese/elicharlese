@@ -31,22 +31,25 @@
 ## 💼 Cleanfolio
 In addition to the web3 marketplace and crowdfunding center on my cleanfolio, I have also created a set of applications, which are practical tools for web3 development and cooperation. For full details, view the [documentation](https://cleanfolio.framer.website/docs).
 
-[⚛️Cleanfolio](https://cleanfolio.framer.website)
-[👨‍💻Resume](https://www.canva.com/design/DAFWFDwArCI/T_M8S2HVb2ZFpwV9WxNclw/view?utm_content=DAFWFDwArCI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+[☕ BuyMeACoffee](https://www.buymeacoffee.com/coachcec)
+[🔗 Linkpop](https://linkpop.com/elicharlese)
+
+[⚛️ Cleanfolio](https://cleanfolio.framer.website)
+[👨‍💻 Resume](https://www.canva.com/design/DAFWFDwArCI/T_M8S2HVb2ZFpwV9WxNclw/view?utm_content=DAFWFDwArCI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 [👋 Direct Hire](https://www.upwork.com/workwith/coachcec)
 
-[📂Cleanfolio Projects](https://github.com/users/elicharlese/projects/10)
-[📂Codedamn Projects](https://github.com/users/elicharlese/projects/11)
+[📂 Cleanfolio Projects](https://github.com/users/elicharlese/projects/10)
+[📂 Codedamn Projects](https://github.com/users/elicharlese/projects/11)
 
 <br/>
 
 ## 🏢 Corporations
 
-[🛒Creative E-commerce Co.](https://github.com/Creative-Ecommerce-Co/app) | [Preview](https://cec.framer.ai/contribute)
+[🛒 Creative E-commerce Co.](https://github.com/Creative-Ecommerce-Co/app) | [Preview](https://cec.framer.ai/contribute)
 
-[🌎TerraSolstice](https://github.com/TerraSolstice/app) | [Preview](https://ts.framer.ai/contribute)
+[🌎 TerraSolstice](https://github.com/TerraSolstice/app) | [Preview](https://ts.framer.ai/contribute)
 
-[🔐Tradent](https://github.com/Tradent/app) | [Preview](https://tdt.framer.ai/contribute)
+[🔐 Tradent](https://github.com/Tradent/app) | [Preview](https://tdt.framer.ai/contribute)
 
 [💻 DASHED](https://github.com/DASHED-OS/DASHED) | [Preview](https://dashed.framer.ai/contribute)
 
