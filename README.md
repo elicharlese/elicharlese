@@ -32,7 +32,7 @@
 In addition to the web3 marketplace and crowdfunding center on my cleanfolio, I have also created a set of applications, which are practical tools for web3 development and cooperation. For full details, view the [documentation](https://cleanfolio.framer.website/docs).
 
 [☕ BuyMeACoffee](https://www.buymeacoffee.com/coachcec)
-[🔗 Linkpop](https://linkpop.com/elicharlese)
+[🎧 Music](https://linkpop.com/elicharlese)
 
 [⚛️ Cleanfolio](https://cleanfolio.framer.website)
 [👨‍💻 Resume](https://www.canva.com/design/DAFWFDwArCI/T_M8S2HVb2ZFpwV9WxNclw/view?utm_content=DAFWFDwArCI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
