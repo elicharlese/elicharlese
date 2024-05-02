@@ -66,8 +66,6 @@ Certified Ethical Hacker (EC-Council) and HackTheBox
     </a>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elicharlese&layout=compact&theme=monokai)](https://github.com/elicharlese/github-readme-stats)
-
 <!--
 <br/>
 
