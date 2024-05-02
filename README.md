@@ -1,17 +1,7 @@
 # <img src="https://github.com/elicharlese/elicharlese/assets/61543012/308d0382-d956-4e02-986b-677a6efa4823" alt="Image" style="width: 100px; height:50px; padding: 0px;">  Developer - Trader - Scripts
 
-<p><strong>My main focus is on web3 tech stacks, cross-platform software and containerization</strong> - React, React Native, Solidity, Redux, Typescript, Node.js and Next.js. However, I also have experience in Project Management, GIS analysis and Salesforce - API's, Python, LWC and APEX. University of California, Santa Barbara graduate with a degree in Geography (emphasis in GIS).</p>
-<div align="right">
-  <a href="https://app.daily.dev/elicharlese">
-      <img 
-           src="https://api.daily.dev/devcards/190ad0df8bbf423487b08fe4439caae2.png?r=xa8" 
-           width="400"
-           align="right"
-           alt="Elias Estrada's Dev Card"
-      />
-    </a>
-</div>
-<div align="left">
+<div>
+  <p><strong>My main focus is on web3 tech stacks, cross-platform software and containerization</strong> - React, React Native, Solidity, Redux, Typescript, Node.js and Next.js. However, I also have experience in Project Management, GIS analysis and Salesforce - API's, Python, LWC and APEX. University of California, Santa Barbara graduate with a degree in Geography (emphasis in GIS).</p>
   <a href="https://www.linkedin.com/in/elicharlese/">
     <img
       src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=7dbee3&label=LinkedIn&message=%E2%98%86"
@@ -24,6 +14,12 @@
       src="https://img.shields.io/twitch/status/bangobongo17?color=7dbee3&logoColor=7dbee3&style=flat-square"
     >
   </a>
+</div>
+<br/>
+<div>
+    <a href="https://git.io/streak-stats">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=elicharlese&theme=monokai-metallian" alt="GitHub Streak" />
+    </a>
 </div>
 
 <br/>
