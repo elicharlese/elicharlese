@@ -16,15 +16,6 @@
   </a>
 </div>
 <br/>
-<div>
-    <a href="https://git.io/streak-stats">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=elicharlese&theme=monokai" alt="GitHub Streak" />
-    </a>
-</div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elicharlese&layout=compact&theme=monokai)](https://github.com/elicharlese/github-readme-stats)
-
-<br/>
 
 ## 💼 Cleanfolio
 In addition to the web3 marketplace and crowdfunding center on my cleanfolio, I have also created a set of applications, which are practical tools for web3 development and cooperation. For full details, view the [documentation](https://cleanfolio.framer.website/docs).
@@ -67,6 +58,16 @@ Web3 and Software Development
 ## ⏭️ Up Next...
 Certified Ethical Hacker (EC-Council) and HackTheBox
 
+<br/>
+
+<div>
+    <a href="https://git.io/streak-stats">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=elicharlese&theme=monokai" alt="GitHub Streak" />
+    </a>
+</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elicharlese&layout=compact&theme=monokai)](https://github.com/elicharlese/github-readme-stats)
+
 <!--
 <br/>
 
@@ -81,6 +82,7 @@ These are projects that I have contributed to in small and large ways. These are
 These are projects that I have contributed to in small and large ways. These are projects that I have contributed to in small and large ways. These are projects that I have contributed to in small and large ways. 
 
 -->
+
 <br/>
 
 ## 🏷️ Languages & Tags
