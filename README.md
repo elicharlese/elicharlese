@@ -41,8 +41,6 @@ In addition to the web3 marketplace and crowdfunding center on my cleanfolio, I 
 [📂 Cleanfolio Projects](https://github.com/users/elicharlese/projects/10)
 [📂 Codedamn Projects](https://github.com/users/elicharlese/projects/11)
 
-<!-- 🔌 [LUMOS]() - [The Good Trading Co.]() -->
-
 <br/>
 
 ## 🏢 Corporations
@@ -70,6 +68,24 @@ Web3 and Software Development
 
 ## ⏭️ Up Next...
 Certified Ethical Hacker (EC-Council) and HackTheBox
+
+<br/>
+
+
+<!--
+## 🫱🏼‍🫲🏼 Professional Affiliations
+
+[LUMOS]() 
+
+These are projects that I have contributed to in small and large ways. These are projects that I have contributed to in small and large ways. These are projects that I have contributed to in small and large ways. 
+
+[The Good Trading Co.]() 
+
+These are projects that I have contributed to in small and large ways. These are projects that I have contributed to in small and large ways. These are projects that I have contributed to in small and large ways. 
+
+-->
+
+<br/>
 
 ## 🏷️ Tags
 `ArcGIS` `Material UI` `React` `React Native` `Redux` `Javascript` `Node.js` `Next.js` `Full-Stack` `SQL` `MongoDB` `Vercel` `CI/CD` `GitHub Actions` `REST/SOAP` `API` `Python` `MERN` `Smart Contracts` `Solidity` `GETH` `Solana` `Rust` `AWS` `GCP` `OpenShift` `Artifical Intelligence` `NLP/NLU`
