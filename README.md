@@ -41,6 +41,8 @@ In addition to the web3 marketplace and crowdfunding center on my cleanfolio, I 
 [📂 Cleanfolio Projects](https://github.com/users/elicharlese/projects/10)
 [📂 Codedamn Projects](https://github.com/users/elicharlese/projects/11)
 
+<!-- 🔌 [LUMOS]() - [The Good Trading Co.]() -->
+
 <br/>
 
 ## 🏢 Corporations
