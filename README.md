@@ -60,11 +60,7 @@ Certified Ethical Hacker (EC-Council) and HackTheBox
 
 <br/>
 
-<div>
-    <a href="https://git.io/streak-stats">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=elicharlese&theme=monokai" alt="GitHub Streak" />
-    </a>
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=elicharlese&theme=monokai-metallian&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
 <!--
 <br/>
