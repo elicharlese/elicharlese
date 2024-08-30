@@ -25,9 +25,9 @@ In addition to the web3 marketplace and crowdfunding center on my cleanfolio, I 
 
 [⚛️ ECE](https://ece.framer.ai)
 [👨‍💻 Resume](https://www.canva.com/design/DAFWFDwArCI/T_M8S2HVb2ZFpwV9WxNclw/view?utm_content=DAFWFDwArCI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
-[👋 Direct Hire](https://www.upwork.com/workwith/coachcec)
+[👋 Direct Hire](https://contra.com/elias_estrada_ealldusf)
 
-[📂 Cleanfolio Projects](https://github.com/users/elicharlese/projects/10)
+[📂 Personal Projects](https://github.com/users/elicharlese/projects/10)
 [📂 Codedamn Projects](https://github.com/users/elicharlese/projects/11)
 
 <br/>
