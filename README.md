@@ -34,21 +34,21 @@ In addition to the web3 marketplace and crowdfunding center on my cleanfolio, I 
 
 ## 🏢 Corporations
 
-[🛒 Creative E-commerce Co.](https://github.com/Creative-Ecommerce-Co/app) | [Preview](https://cec.framer.ai/contribute)
+[🛒 Creative E-commerce Co.](https://github.com/Creative-Ecommerce-Co/app) | [Preview](https://cec.framer.ai/)
 
-[🌎 TerraSolstice](https://github.com/TerraSolstice/app) | [Preview](https://ts.framer.ai/contribute)
+[🌎 TerraSolstice](https://github.com/TerraSolstice/app) | [Preview](https://ts.framer.ai/)
 
-[🔐 Tradent](https://github.com/Tradent/app) | [Preview](https://tdt.framer.ai/contribute)
+[🔐 Tradent](https://github.com/Tradent/app) | [Preview](https://tdt.framer.ai/)
 
-[💻 DASHED](https://github.com/DASHED-OS/DASHED) | [Preview](https://dashed.framer.ai/contribute)
+[💻 DASHED](https://github.com/DASHED-OS/DASHED) | [Preview](https://dashed.framer.ai/)
 
-[💻 GSL](https://github.com/GSL-AI/GSL) | [Preview](https://gsl.framer.ai/contribute)
+[💻 GSL](https://github.com/GSL-AI/GSL) | [Preview](https://gsl.framer.ai/)
 
-[💻 OMNI](https://github.com/OMNI-VISIONS/OMNI) | [Preview](https://omni.framer.ai/contribute)
+[💻 OMNI](https://github.com/OMNI-VISIONS/OMNI) | [Preview](https://omni.framer.ai/)
 
-[💻 STOKE](https://github.com/STOKE-CLI/STOKE) | [Preview](https://stoke.framer.ai/contribute)
+[💻 STOKE](https://github.com/STOKE-CLI/STOKE) | [Preview](https://stoke.framer.ai/)
 
-[💻 SPECTRA](https://github.com/SPECTRA-SPATIAL/SPECTRA) | [Preview](https://spectra.framer.ai/contribute)
+[💻 SPECTRA](https://github.com/SPECTRA-SPATIAL/SPECTRA) | [Preview](https://spectra.framer.ai/)
 
 <br/>
 
