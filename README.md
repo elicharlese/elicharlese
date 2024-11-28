@@ -27,7 +27,7 @@ In addition to the web3 marketplace and crowdfunding center on my cleanfolio, I 
 [👨‍💻 Resume](https://www.canva.com/design/DAFWFDwArCI/T_M8S2HVb2ZFpwV9WxNclw/view?utm_content=DAFWFDwArCI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 [👋 Direct Hire](https://contra.com/elias_estrada_ealldusf)
 
-[📂 Personal Projects](https://github.com/users/elicharlese/projects/10)
+[⚙️ Braintrust](https://app.usebraintrust.com/talent/51401/)
 [📂 Codedamn Projects](https://github.com/users/elicharlese/projects/11)
 
 <br/>
@@ -61,25 +61,6 @@ Certified Ethical Hacker (EC-Council) and HackTheBox
 <br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=elicharlese&theme=monokai-metallian&hide_border=true&border_radius=6)](https://git.io/streak-stats)
-
-<!--
-<br/>
-
-## 🫱🏼‍🫲🏼 Professional Affiliations
-
-[LUMOS]() 
-
-These are projects that I have contributed to in small and large ways. These are projects that I have contributed to in small and large ways. These are projects that I have contributed to in small and large ways. 
-
-[The Good Trading Co.]() 
-
-These are projects that I have contributed to in small and large ways. These are projects that I have contributed to in small and large ways. These are projects that I have contributed to in small and large ways. 
-
-[MKT4U]() 
-
-These are projects that I have contributed to in small and large ways. These are projects that I have contributed to in small and large ways. These are projects that I have contributed to in small and large ways. 
-
--->
 
 <br/>
 
