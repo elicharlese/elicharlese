@@ -18,7 +18,7 @@
 <br/>
 
 ## 💼 ECE
-In addition to the web3 marketplace and crowdfunding center on my cleanfolio, I have also created a set of applications, which are practical tools for web3 development and cooperation. For full details, view the [documentation](https://cleanfolio.framer.website/docs).
+In addition to the web3 marketplace and crowdfunding center on my , I have also created a set of applications, which are practical tools for web3 development and cooperation. For full details, view the [README](https://github.com/elicharlese/ECE/blob/main/README.md).
 
 [☕ BuyMeACoffee](https://www.buymeacoffee.com/coachcec)
 [🎧 Music](https://linkpop.com/elicharlese)
@@ -28,7 +28,7 @@ In addition to the web3 marketplace and crowdfunding center on my cleanfolio, I 
 [👋 Direct Hire](https://contra.com/elias_estrada_ealldusf)
 
 [⚙️ Braintrust](https://app.usebraintrust.com/talent/51401/)
-[📂 Codedamn Projects](https://github.com/users/elicharlese/projects/11)
+[📂 Codedamn](https://github.com/users/elicharlese/projects/11)
 
 <br/>
 
