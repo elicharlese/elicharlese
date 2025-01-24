@@ -60,7 +60,7 @@ Certified Ethical Hacker (EC-Council) and HackTheBox
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=elicharlese&theme=monokai&hide_border=true&hide_current_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=elicharlese&theme=monokai&hide_border=true)](https://git.io/streak-stats)
 
 <br/>
 
