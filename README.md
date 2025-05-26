@@ -28,6 +28,8 @@ In addition to the web3 marketplace and crowdfunding center on ECE, I have also 
 [👨‍💻 Resume](https://www.canva.com/design/DAGogRM6FDQ/5NYjGhSf-UJcPP5B-OnHIQ/edit?utm_content=DAGogRM6FDQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 [👋 Direct Hire](https://contra.com/elias_estrada_ealldusf)
 
+<br/>
+
 ## 🏢 Corporations
 **These corporations** are diving deep into the intersection of **blockchain technology** and **spatial science**, forging a path to solve complex, real-world issues. Imagine secure, transparent **spatial data** powered by blockchain's trust layer, combined with cutting-edge geographic insights. This potent fusion is fueling the creation of groundbreaking **decentralized applications** that are set to **reshape industries** and **reveal unseen potential** across frontiers. It's about building a more connected, verifiable, and intelligently mapped future, and these companies are making it happen.
 
