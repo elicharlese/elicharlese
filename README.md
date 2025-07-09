@@ -21,7 +21,7 @@
 ## [⚛️ ECE](https://ece-freelance.vercel.app)
 An all-in-one platform for the future of decentralized engagement. ECE offers expert **blockchain application development services**, empowering you to build innovative solutions. Dive into our vibrant **marketplace** to discover and trade unique digital assets, or launch and support projects through our integrated **crowdfunding platform**. ECE connects creators, developers, and enthusiasts in a seamless, blockchain-powered ecosystem.
 
-In addition to the web3 marketplace and crowdfunding center on ECE, I have also created a set of applications, which are practical tools for web3 development and cooperation ([ForSure](https://github.com/elicharlese/ForSure), [SocketChat](https://github.com/elicharlese/SocketChat), [NanoNode](https://github.com/elicharlese/NanoNode), [TxnTracker](https://github.com/elicharlese/TXNTracker), [Bitcell](https://github.com/elicharlese/Bitcell), [ThePublic](https://github.com/elicharlese/ThePublic))
+In addition to the web3 marketplace and crowdfunding center on ECE, I have also created a set of applications, which are practical tools for web3 development and cooperation ([Bitcell](https://github.com/elicharlese/Bitcell), [ForSure](https://github.com/elicharlese/ForSure), [SocketChat](https://github.com/elicharlese/SocketChat), [NanoNode](https://github.com/elicharlese/NanoNode), [TxnTracker](https://github.com/elicharlese/TXNTracker), [ThePublic](https://github.com/elicharlese/ThePublic))
 
 <br/>
 
