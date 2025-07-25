@@ -19,21 +19,19 @@
 <br/>
 
 ## [⚛️ ECE](https://ece-freelance.vercel.app)
-An all-in-one platform for the future of decentralized engagement. ECE offers expert **blockchain application development services**, empowering you to build innovative solutions. Dive into our vibrant **marketplace** to discover and trade unique digital assets, or launch and support projects through our integrated **crowdfunding platform**. ECE connects creators, developers, and enthusiasts in a seamless, blockchain-powered ecosystem.
-
-In addition to the web3 marketplace and crowdfunding center on ECE, I have also created a set of applications, which are practical tools for web3 development and cooperation ([Bitcell](https://github.com/elicharlese/Bitcell), [ForSure](https://github.com/elicharlese/ForSure), [SocketChat](https://github.com/elicharlese/SocketChat), [NanoNode](https://github.com/elicharlese/NanoNode), [TxnTracker](https://github.com/elicharlese/TXNTracker), [ThePublic](https://github.com/elicharlese/ThePublic))
-
-<br/>
 
 [👨‍💻 Resume](https://www.canva.com/design/DAGogRM6FDQ/5NYjGhSf-UJcPP5B-OnHIQ/edit?utm_content=DAGogRM6FDQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 [👋 Direct Hire](https://contra.com/elias_estrada_ealldusf)
 
 <br/>
 
-## 🏢 Corporations
-**These corporations** are diving deep into the intersection of **blockchain technology** and **spatial science**, forging a path to solve complex, real-world issues. Imagine secure, transparent **spatial data** powered by blockchain's trust layer, combined with cutting-edge geographic insights. This potent fusion is fueling the creation of groundbreaking **decentralized applications** that are set to **reshape industries** and **reveal unseen potential** across frontiers. It's about building a more connected, verifiable, and intelligently mapped future, and these companies are making it happen.
+An all-in-one platform for the future of decentralized engagement. ECE offers expert **blockchain application development services**, empowering you to build innovative solutions. Dive into our vibrant **marketplace** to discover and trade unique digital assets, or launch and support projects through our integrated **crowdfunding platform**. ECE connects creators, developers, and enthusiasts in a seamless, blockchain-powered ecosystem.
+
+In addition to the web3 marketplace and crowdfunding center on ECE, I have also created a set of applications, which are practical tools for web3 development and cooperation ([Bitcell](https://github.com/elicharlese/Bitcell), [ForSure](https://github.com/elicharlese/ForSure), [SocketChat](https://github.com/elicharlese/SocketChat), [NanoNode](https://github.com/elicharlese/NanoNode), [TxnTracker](https://github.com/elicharlese/TXNTracker), [ThePublic](https://github.com/elicharlese/ThePublic))
 
 <br/>
+
+## 🏢 Corporations
 
 [🛒 CEC](https://github.com/Creative-Ecommerce-Co/app)
 [🌎 TS](https://github.com/TerraSolstice/app)
@@ -43,3 +41,7 @@ In addition to the web3 marketplace and crowdfunding center on ECE, I have also 
 [💻 SPECTRA](https://github.com/SPECTRA-SPATIAL/app)
 [💻 DASHED](https://github.com/DASHED-OS/app)
 [💻 GSL](https://github.com/GSL-AI/app)
+
+<br/>
+
+**These corporations** are diving deep into the intersection of **blockchain technology** and **spatial science**, forging a path to solve complex, real-world issues. Imagine secure, transparent **spatial data** powered by blockchain's trust layer, combined with cutting-edge geographic insights. This potent fusion is fueling the creation of groundbreaking **decentralized applications** that are set to **reshape industries** and **reveal unseen potential** across frontiers. It's about building a more connected, verifiable, and intelligently mapped future, and these companies are making it happen.
