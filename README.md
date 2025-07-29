@@ -20,10 +20,7 @@
 
 ## [⚛️ ECE](https://ece-freelance.vercel.app)
 
-[🌴 EliasCharles](https://eliascharles.shop)
-
-<br/>
-
+[🌴 EliasCharles](https://eliascharles.shop)  
 [🎧 BangoBongo](https://bangobongo.store)
 
 <br/>
