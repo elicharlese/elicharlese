@@ -20,8 +20,8 @@
 
 ## [⚛️ ECE](https://ece-freelance.vercel.app)
 
-[👨‍💻 Resume](https://www.canva.com/design/DAGogRM6FDQ/5NYjGhSf-UJcPP5B-OnHIQ/edit?utm_content=DAGogRM6FDQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-[👋 Direct Hire](https://contra.com/elias_estrada_ealldusf)
+[🌴 EliasCharles](https://eliascharles.shop)
+[🎧 BangoBongo](https://bangobongo.store)
 
 <br/>
 
