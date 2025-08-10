@@ -18,7 +18,7 @@
 </div>
 <br/>
 
-## [⚛️ ECE](https://ece-freelance.vercel.app)
+## [⚛️ ECE](https://timeforabreak.x)
 
 [🌴 EliasCharles](https://eliascharles.shop)  [🎧 BangoBongo](https://bangobongo.store)
 
