@@ -85,52 +85,26 @@ In addition to the web3 marketplace and crowdfunding center on ECE, I have also 
 [📋 Browser Buddy](https://github.com/Creative-Ecommerce-Co/browserbuddy)
 [📋 CryptoConscious](https://github.com/Creative-Ecommerce-Co/cryptoconscious)
 [📋 Animateful](https://github.com/Creative-Ecommerce-Co/animateful)
-[📋 ECE]()
-[📋 ECE]()
-[📋 ECE]()
-[📋 ECE]()
-[📋 ECE]()
-[📋 ECE]()
-[📋 ECE]()
-[📋 ECE]()
-[📋 ECE]()
-[📋 ECE]()
-[📋 ECE]()
-[📋 ECE]()
-[📋 ECE]()
-[📋 ECE]()
-[📋 ECE]()
-[📋 ECE]()
-[📋 ECE]()
-[📋 ECE]()
-[📋 ECE]()
-[📋 ECE]()
-[📋 ECE]()
-[📋 ECE]()
-[📋 ECE]()
-[📋 ECE]()
-[📋 ECE]()
-
-AppThis → https://github.com/Creative-Ecommerce-Co/appthis
-Dapp Store → https://github.com/Tradent/dapp-store
-SubTerrain → https://github.com/Tradent/subterrain
-Sectorverse → https://github.com/Tradent/sectorverse
-Rings → https://github.com/Tradent/rings
-NFF → https://github.com/Tradent/nff
-Ignite → https://github.com/Tradent/ignite
-Hooden → https://github.com/Tradent/hooden
-HFW → https://github.com/Tradent/hfw
-Half and Half → https://github.com/Tradent/half-and-half
-Field Hands → https://github.com/Tradent/field-hands
-Entire → https://github.com/Tradent/entire
-Employable → https://github.com/Tradent/employable
-Dappfolio → https://github.com/Tradent/dappfolio
-Cheers → https://github.com/Tradent/cheers
-Border → https://github.com/Tradent/border
-Bitstream → https://github.com/Tradent/bitstream
-Bitrocket → https://github.com/Tradent/bitrocket
-Bi-pass → https://github.com/Tradent/bi-pass
-Avian → https://github.com/Tradent/avian
-Across The Block → https://github.com/Tradent/across-the-block
-Knott Bank → https://github.com/Tradent/knott-bank
-Query → https://github.com/Tradent/query
+[📋 AppThis](https://github.com/Creative-Ecommerce-Co/appthis)
+[📋 Dapp Store](https://github.com/Tradent/dapp-store)
+[📋 SubTerrain](https://github.com/Tradent/subterrain)
+[📋 Sectorverse](https://github.com/Tradent/sectorverse)
+[📋 Rings](https://github.com/Tradent/rings)
+[📋 NFF](https://github.com/Tradent/nff)
+[📋 Ignite](https://github.com/Tradent/ignite)
+[📋 Hooden](https://github.com/Tradent/hooden)
+[📋 HFW](https://github.com/Tradent/hfw)
+[📋 Half and Half](https://github.com/Tradent/half-and-half)
+[📋 Field Hands](https://github.com/Tradent/field-hands)
+[📋 Entire](https://github.com/Tradent/entire)
+[📋 Employable](https://github.com/Tradent/employable)
+[📋 Dappfolio](https://github.com/Tradent/dappfolio)
+[📋 Cheers](https://github.com/Tradent/cheers)
+[📋 Border](https://github.com/Tradent/border)
+[📋 Bitstream](https://github.com/Tradent/bitstream)
+[📋 Bitrocket](https://github.com/Tradent/bitrocket)
+[📋 Bi-pass](https://github.com/Tradent/bi-pass)
+[📋 Avian](https://github.com/Tradent/avian)
+[📋 Across The Block](https://github.com/Tradent/across-the-block)
+[📋 Knott Bank](https://github.com/Tradent/knott-bank)
+[📋 Query](https://github.com/Tradent/query)
