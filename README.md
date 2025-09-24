@@ -20,13 +20,13 @@
 
 ## [⚛️ ECE](https://timeforabreak.x)
 
-[🌴 EliasCharles](https://eliascharles.shop)  [🎧 BangoBongo](https://bangobongo.store)
+[🌴 EliasCharles](https://eliascharles.x)  [🎧 BangoBongo](https://bangobongo.store)
 
 <br/>
 
 An all-in-one platform for the future of decentralized engagement. ECE offers expert **blockchain application development services**, empowering you to build innovative solutions. Dive into our vibrant **marketplace** to discover and trade unique digital assets, or launch and support projects through our integrated **crowdfunding platform**. ECE connects creators, developers, and enthusiasts in a seamless, blockchain-powered ecosystem.
 
-In addition to the web3 marketplace and crowdfunding center on ECE, I have also created a set of applications, which are practical tools for web3 development and cooperation ([Bitcell](https://bitcell.vercel.app), [ForSure](https://for-sure.vercel.app), [SocketChat](https://socket-chat-platform.vercel.app), [NanoNode](https://nano-node-live.vercel.app), [TxnTracker](https://txn-tracker.vercel.app), [ThePublic](https://the-public-network.vercel.app))
+In addition to the web3 marketplace and crowdfunding center on ECE, I have also created a set of applications, which are practical tools for web3 development and cooperation.
 
 <br/>
 
@@ -44,3 +44,93 @@ In addition to the web3 marketplace and crowdfunding center on ECE, I have also 
 <br/>
 
 **These corporations** are diving deep into the intersection of **blockchain technology** and **spatial science**, forging a path to solve complex, real-world issues. Imagine secure, transparent **spatial data** powered by blockchain's trust layer, combined with cutting-edge geographic insights. This potent fusion is fueling the creation of groundbreaking **decentralized applications** that are set to **reshape industries** and **reveal unseen potential** across frontiers. It's about building a more connected, verifiable, and intelligently mapped future, and these companies are making it happen.
+
+<br/>
+
+## 🫱🏼‍🫲🏽 Contributions
+
+**These corporations** are diving deep into the intersection of **blockchain technology** and **spatial science**, forging a path to solve complex, real-world issues. Imagine secure, transparent **spatial data** powered by blockchain's trust layer, combined with cutting-edge geographic insights. This potent fusion is fueling the creation of groundbreaking **decentralized applications** that are set to **reshape industries** and **reveal unseen potential** across frontiers. It's about building a more connected, verifiable, and intelligently mapped future, and these companies are making it happen.
+
+<br/>
+
+[📑 Lumos](https://github.com/elicharlese/Lumos)
+[📑 Banish Realm](https://github/elicharlese/Banish-Realm)
+[📑 Bitcell](https://github.com/elicharlse/Bitcell)
+[📑 Dropics](https://github.com/elicharlese/Dropics)
+[📑 ForSure](https://github.com/elicharlese/ForSure)
+[📑 InsideOut](https://github.com/elicharlese/InsideOut)
+[📑 MellowDaze](https://github.com/elicharlese/MellowDaze)
+[📑 MKT4U](https://github.com/elicharlese/MKT4U)
+[📑 NanoNode](https://github.com/elicharles/NanoNode)
+[📑 Portbl.Life](https://github.com/elicharles/Portbl.Life)
+[📑 SocketChat](https://github.com/elicharles/SocketChat)
+[📑 STIKS](https://github.com/elicharles/STIKS)
+[📑 ThePublic](https://github.com/elicharles/ThePublic)
+[📑 TinTin](https://github.com/elicharles/TinTin)
+[📑 TxnTracker](https://github.com/elicharles/TxnTracker)
+
+<br/>
+
+## 💼 Minimum Viable Projects
+
+**These corporations** are diving deep into the intersection of **blockchain technology** and **spatial science**, forging a path to solve complex, real-world issues. Imagine secure, transparent **spatial data** powered by blockchain's trust layer, combined with cutting-edge geographic insights. This potent fusion is fueling the creation of groundbreaking **decentralized applications** that are set to **reshape industries** and **reveal unseen potential** across frontiers. It's about building a more connected, verifiable, and intelligently mapped future, and these companies are making it happen.
+
+<br/>
+
+[📋 ColorUpload](https://github.com/Creative-Ecommerce-Co/colorupload)
+[📋 Dropflow](https://github.com/Creative-Ecommerce-Co/dropflow)
+[📋 Pitshop](https://github.com/Creative-Ecommerce-Co/pitshop)
+[📋 SEO Surge](https://github.com/Creative-Ecommerce-Co/seosurge)
+[📋 Virtantly](https://github.com/Creative-Ecommerce-Co/virtantly)
+[📋 Browser Buddy](https://github.com/Creative-Ecommerce-Co/browserbuddy)
+[📋 CryptoConscious](https://github.com/Creative-Ecommerce-Co/cryptoconscious)
+[📋 Animateful](https://github.com/Creative-Ecommerce-Co/animateful)
+[📋 ECE]()
+[📋 ECE]()
+[📋 ECE]()
+[📋 ECE]()
+[📋 ECE]()
+[📋 ECE]()
+[📋 ECE]()
+[📋 ECE]()
+[📋 ECE]()
+[📋 ECE]()
+[📋 ECE]()
+[📋 ECE]()
+[📋 ECE]()
+[📋 ECE]()
+[📋 ECE]()
+[📋 ECE]()
+[📋 ECE]()
+[📋 ECE]()
+[📋 ECE]()
+[📋 ECE]()
+[📋 ECE]()
+[📋 ECE]()
+[📋 ECE]()
+[📋 ECE]()
+[📋 ECE]()
+
+AppThis → https://github.com/Creative-Ecommerce-Co/appthis
+Dapp Store → https://github.com/Tradent/dapp-store
+SubTerrain → https://github.com/Tradent/subterrain
+Sectorverse → https://github.com/Tradent/sectorverse
+Rings → https://github.com/Tradent/rings
+NFF → https://github.com/Tradent/nff
+Ignite → https://github.com/Tradent/ignite
+Hooden → https://github.com/Tradent/hooden
+HFW → https://github.com/Tradent/hfw
+Half and Half → https://github.com/Tradent/half-and-half
+Field Hands → https://github.com/Tradent/field-hands
+Entire → https://github.com/Tradent/entire
+Employable → https://github.com/Tradent/employable
+Dappfolio → https://github.com/Tradent/dappfolio
+Cheers → https://github.com/Tradent/cheers
+Border → https://github.com/Tradent/border
+Bitstream → https://github.com/Tradent/bitstream
+Bitrocket → https://github.com/Tradent/bitrocket
+Bi-pass → https://github.com/Tradent/bi-pass
+Avian → https://github.com/Tradent/avian
+Across The Block → https://github.com/Tradent/across-the-block
+Knott Bank → https://github.com/Tradent/knott-bank
+Query → https://github.com/Tradent/query
