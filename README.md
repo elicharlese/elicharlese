@@ -61,13 +61,13 @@ In addition to the web3 marketplace and crowdfunding center on ECE, I have also 
 [📑 InsideOut](https://github.com/elicharlese/InsideOut)
 [📑 MellowDaze](https://github.com/elicharlese/MellowDaze)
 [📑 MKT4U](https://github.com/elicharlese/MKT4U)
-[📑 NanoNode](https://github.com/elicharles/NanoNode)
-[📑 Portbl.Life](https://github.com/elicharles/Portbl.Life)
-[📑 SocketChat](https://github.com/elicharles/SocketChat)
-[📑 STIKS](https://github.com/elicharles/STIKS)
-[📑 ThePublic](https://github.com/elicharles/ThePublic)
-[📑 TinTin](https://github.com/elicharles/TinTin)
-[📑 TxnTracker](https://github.com/elicharles/TxnTracker)
+[📑 NanoNode](https://github.com/elicharlese/NanoNode)
+[📑 Portbl.Life](https://github.com/elicharlese/Portbl.Life)
+[📑 SocketChat](https://github.com/elicharlese/SocketChat)
+[📑 STIKS](https://github.com/elicharlese/STIKS)
+[📑 ThePublic](https://github.com/elicharlese/ThePublic)
+[📑 TinTin](https://github.com/elicharlese/TinTin)
+[📑 TxnTracker](https://github.com/elicharlese/TxnTracker)
 
 <br/>
 
