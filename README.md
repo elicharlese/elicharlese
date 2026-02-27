@@ -18,8 +18,6 @@
 </div>
 <br/>
 
-## [⚛️ ECE](https://timeforabreak.x)
-
 [🌴 EliasCharles](https://eliascharles.x)  [🎧 BangoBongo](https://bangobongo.store)
 
 <br/>
