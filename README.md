@@ -52,13 +52,10 @@ In addition to the web3 marketplace and crowdfunding center on ECE, I have also 
 <br/>
 
 [📑 Lumos](https://github.com/elicharlese/Lumos)
-[📑 Banish Realm](https://github/elicharlese/Banish-Realm)
 [📑 Bitcell](https://github.com/elicharlse/Bitcell)
 [📑 Dropics](https://github.com/elicharlese/Dropics)
 [📑 ForSure](https://github.com/elicharlese/ForSure)
 [📑 InsideOut](https://github.com/elicharlese/InsideOut)
-[📑 MellowDaze](https://github.com/elicharlese/MellowDaze)
-[📑 MKT4U](https://github.com/elicharlese/MKT4U)
 [📑 NanoNode](https://github.com/elicharlese/NanoNode)
 [📑 Portbl.Life](https://github.com/elicharlese/Portbl.Life)
 [📑 SocketChat](https://github.com/elicharlese/SocketChat)
