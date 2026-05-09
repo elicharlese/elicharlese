@@ -51,7 +51,6 @@ In addition to the web3 marketplace and crowdfunding center on ECE, I have also 
 
 <br/>
 
-[📑 Lumos](https://github.com/elicharlese/Lumos)
 [📑 Bitcell](https://github.com/elicharlse/Bitcell)
 [📑 Dropics](https://github.com/elicharlese/Dropics)
 [📑 ForSure](https://github.com/elicharlese/ForSure)
